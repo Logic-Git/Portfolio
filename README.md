@@ -7,5 +7,5 @@ For example, the **NLP-Contextual-Analysis** directory houses an NLP project foc
 This portfolio serves to highlight my expertise and provide potential collaborators, employers, and fellow data enthusiasts with insight into my work.
 
 ## Navigation
-Project Directories: Each directory is named after the project it contains.
-README Files: Inside each project directory, you'll find a README file with detailed information about the project.
+**Project Directories**: Each directory is named after the project it contains.
+**README Files**: Inside each project directory, you'll find a README file with detailed information about the project.

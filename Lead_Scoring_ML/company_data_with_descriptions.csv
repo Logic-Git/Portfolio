@@ -1,0 +1,1001 @@
+Company Name,number_of_employees,company_description,revenue_growth_percentage,industry,lead_converted,revenue_amount_aed,founded_year
+Aimbo,61,"Aimbo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",6.85,Manufacturing,False,21665143,1967
+Flipbug,57,"Flipbug is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",62.27,Healthcare,True,12387485,1915
+Dynava,10,Dynava is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,96.86,Education,True,12889951,1968
+Wikido,79,"Wikido provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",93.0,Transportation,False,38308107,1976
+Wordware,91,"Wordware is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",41.38,Hospitality,True,26212130,1903
+Mydo,41,"Mydo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",59.69,Manufacturing,True,21471440,2020
+Photojam,71,"Photojam provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",2.12,Finance,True,35128884,1935
+Tambee,44,Tambee is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,9.2,Education,True,9120197,1943
+Buzzbean,65,"Buzzbean provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",2.57,Finance,True,12829379,1995
+Topicblab,24,Topicblab is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,7.16,Education,True,20128598,1910
+Demizz,13,"Demizz offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",65.58,Technology,False,25174260,1936
+Eare,20,"Eare offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",10.23,Retail,False,19251830,2014
+Tagtune,14,Tagtune is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,17.14,Education,True,43435669,1977
+Zoomzone,75,"Zoomzone offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",57.38,Retail,False,10740129,1943
+Blogtag,17,Blogtag is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,41.22,Education,False,23376972,1989
+Kwilith,71,"Kwilith provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",88.03,Transportation,True,9765220,2003
+Buzzster,73,"Buzzster is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",76.32,Healthcare,True,40729418,1993
+Feednation,44,"Feednation is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",6.68,Healthcare,True,24709725,1996
+Wordify,21,"Wordify offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",43.37,Technology,False,10958759,1950
+Layo,91,Layo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,76.71,Education,False,46400333,1912
+Topiclounge,91,"Topiclounge specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",36.57,Manufacturing,True,30852389,1967
+Tazzy,70,"Tazzy is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",79.0,Healthcare,True,37618452,1924
+Zazio,62,"Zazio provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",12.71,Transportation,False,17455485,1930
+Dabtype,38,"Dabtype specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",84.44,Manufacturing,True,41377469,1993
+Wordware,79,"Wordware specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",75.79,Manufacturing,True,36762713,1946
+Minyx,47,"Minyx provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",79.84,Finance,False,10186589,1913
+Oozz,90,"Oozz offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",94.74,Technology,True,39229579,1902
+Jaxnation,93,"Jaxnation is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",40.31,Hospitality,True,45926629,1909
+Ainyx,37,"Ainyx offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",67.64,Technology,True,5454635,1936
+Quire,11,Quire is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,88.92,Education,False,42636205,1901
+Twinder,99,"Twinder is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",87.63,Hospitality,False,44627322,1948
+Yadel,70,"Yadel is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",39.53,Hospitality,True,11249393,1931
+Jabbercube,86,Jabbercube is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,87.65,Education,False,11780898,1934
+Twitterworks,94,"Twitterworks provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",61.21,Transportation,False,14212144,1979
+Yodo,89,"Yodo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",19.53,Technology,True,10932482,2000
+Chatterpoint,76,"Chatterpoint provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",48.61,Finance,True,14898830,1957
+Mynte,20,"Mynte provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",73.14,Transportation,False,49616569,1961
+Twiyo,16,Twiyo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,13.26,Education,False,20410423,2016
+Lazzy,19,"Lazzy offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",13.69,Technology,False,23499093,1960
+Camido,98,"Camido provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",35.3,Transportation,False,43158243,1986
+Jazzy,81,"Jazzy is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",74.42,Hospitality,False,20037500,2016
+Oyoba,36,"Oyoba offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",50.66,Retail,True,45225588,1972
+Thoughtmix,51,"Thoughtmix specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",19.87,Manufacturing,False,33785041,1941
+Agivu,59,"Agivu is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",65.34,Hospitality,True,46802822,1914
+Tambee,98,"Tambee provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",7.06,Transportation,True,15300330,1910
+Devify,71,"Devify provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",76.86,Transportation,True,35185126,1921
+Linkbuzz,99,"Linkbuzz offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",42.45,Technology,False,35752755,1920
+Twitterwire,26,"Twitterwire is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",15.29,Hospitality,False,29457165,1934
+Roomm,42,"Roomm offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",22.29,Retail,True,4386515,1909
+Devshare,85,"Devshare offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",84.73,Retail,False,4078682,1917
+Jaxbean,29,"Jaxbean provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",24.69,Finance,True,8084569,1947
+Janyx,66,"Janyx offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",98.24,Technology,True,13903525,1927
+Thoughtsphere,13,"Thoughtsphere is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",56.35,Healthcare,True,22605789,1995
+Flashdog,64,"Flashdog provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",23.66,Finance,False,17672639,1991
+Divanoodle,65,"Divanoodle offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",33.65,Technology,True,17493548,1968
+Riffpedia,55,"Riffpedia specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",9.43,Manufacturing,True,14536255,1984
+Meevee,93,"Meevee offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",28.94,Technology,True,21256873,1923
+Twitternation,68,"Twitternation is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",16.85,Healthcare,True,8126148,1966
+Zoomcast,39,"Zoomcast offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",14.82,Retail,False,5675179,2004
+Quimm,60,"Quimm specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",4.98,Manufacturing,False,8284344,1979
+Cogilith,38,Cogilith is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,66.33,Education,False,10100679,1946
+Voomm,30,"Voomm offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",80.8,Retail,True,45419786,1944
+Topicblab,30,"Topicblab specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",15.51,Manufacturing,False,19164924,1990
+Buzzdog,59,"Buzzdog is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",20.4,Hospitality,False,42903751,2009
+Jayo,15,"Jayo provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",72.22,Finance,False,20715587,1902
+Tagcat,71,"Tagcat is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",16.45,Hospitality,False,8344280,1944
+Voolith,85,"Voolith is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",61.45,Hospitality,True,42881316,1979
+Chatterpoint,38,"Chatterpoint offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",91.93,Technology,True,20541735,1993
+Trudoo,79,"Trudoo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",32.07,Technology,False,48948293,2023
+Quaxo,20,"Quaxo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",59.47,Healthcare,True,6686919,1941
+Photojam,69,"Photojam provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",75.2,Transportation,True,49724796,2008
+Voonix,77,"Voonix provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",99.17,Transportation,False,3493859,1936
+Ainyx,39,"Ainyx specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",38.08,Manufacturing,False,13433474,1943
+Jaloo,48,"Jaloo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",53.71,Manufacturing,False,48762575,1917
+Vipe,88,"Vipe offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",97.2,Technology,True,31232721,1993
+Photojam,75,"Photojam offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",22.56,Technology,False,44604843,2003
+Avamba,32,"Avamba offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",25.93,Retail,True,24156254,2020
+Jabberstorm,10,Jabberstorm is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,85.26,Education,True,45255070,1947
+Yadel,56,"Yadel specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",69.13,Manufacturing,True,8245543,2016
+Fivechat,27,"Fivechat provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",67.18,Transportation,False,44418669,1935
+Kimia,36,Kimia is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,90.82,Education,True,31763451,2003
+Rhynyx,43,"Rhynyx specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",85.9,Manufacturing,False,37439725,2000
+Edgeify,70,"Edgeify is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",17.64,Hospitality,True,29185106,2016
+Innotype,74,Innotype is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,93.97,Education,True,47982457,1942
+Bluezoom,13,"Bluezoom is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",95.39,Healthcare,False,14556547,1980
+Trilia,67,"Trilia is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",64.09,Healthcare,True,38151047,1987
+Vidoo,91,"Vidoo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",93.85,Manufacturing,True,22392848,1984
+Trudeo,35,"Trudeo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",1.82,Healthcare,False,9861683,1953
+Yozio,61,"Yozio offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",14.14,Technology,False,11574087,1969
+Trudoo,10,"Trudoo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",13.5,Retail,False,39481363,2013
+Skyvu,98,"Skyvu specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",79.18,Manufacturing,False,34606384,1929
+Brainbox,87,Brainbox is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,81.19,Education,True,24170282,1990
+Avamm,53,"Avamm is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",14.78,Hospitality,True,22052001,1961
+Jabbersphere,48,"Jabbersphere offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",98.39,Retail,False,35100352,1964
+Fiveclub,63,"Fiveclub specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",45.88,Manufacturing,True,17621797,2006
+Skipstorm,24,"Skipstorm provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",46.93,Transportation,False,44618799,1968
+Tazz,68,"Tazz is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",16.44,Hospitality,False,46937140,2001
+Demivee,59,"Demivee provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",9.99,Transportation,True,26545001,1978
+Eabox,32,"Eabox specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",59.69,Manufacturing,True,27662510,2024
+Yambee,97,"Yambee offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",86.79,Retail,True,35029549,1986
+Rhynoodle,16,"Rhynoodle specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",76.87,Manufacturing,True,7470083,1943
+Podcat,25,"Podcat offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",55.5,Retail,True,42462289,1977
+Thoughtworks,67,"Thoughtworks offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",28.87,Technology,True,44487889,2015
+Bluejam,47,"Bluejam provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",80.17,Finance,False,32464913,1939
+Meeveo,56,Meeveo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,63.19,Education,False,17271678,1913
+Meedoo,32,"Meedoo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",48.96,Healthcare,True,22676843,1986
+Eimbee,49,"Eimbee is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",36.58,Hospitality,True,38194987,2006
+Fivechat,21,"Fivechat is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",54.2,Hospitality,True,48937228,1993
+Avavee,64,"Avavee is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",20.26,Hospitality,True,22148261,1989
+Jabbertype,73,"Jabbertype offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",10.9,Retail,True,43338276,1906
+Gigazoom,49,"Gigazoom provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",56.45,Transportation,True,16448369,1998
+Skyble,71,"Skyble provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",41.16,Finance,False,22781113,1931
+Yombu,59,"Yombu provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",53.11,Transportation,False,25862918,1978
+Topicshots,64,Topicshots is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,30.54,Education,True,22642688,1901
+Minyx,54,Minyx is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,66.85,Education,False,10583777,2015
+Mynte,24,"Mynte offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",62.16,Technology,False,7175926,1968
+Zoonder,41,"Zoonder is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",39.67,Healthcare,True,13542907,1991
+Zooveo,69,"Zooveo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",83.94,Healthcare,True,11920610,2008
+Topdrive,94,"Topdrive is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",52.55,Hospitality,True,24152089,2009
+Jayo,59,"Jayo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",41.58,Healthcare,True,43119790,2003
+Shuffledrive,85,"Shuffledrive specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",44.92,Manufacturing,False,2931355,2009
+Zoombox,35,"Zoombox provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",2.23,Transportation,False,46935865,1987
+Dynabox,84,"Dynabox offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",72.95,Technology,True,6686889,2011
+Skiba,32,"Skiba is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",95.38,Healthcare,True,11898121,2011
+Linkbridge,91,"Linkbridge is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",84.76,Hospitality,False,21027041,1987
+Brainverse,83,Brainverse is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,80.97,Education,False,46104105,1946
+Flashset,99,"Flashset is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",48.15,Hospitality,False,6575284,1903
+Pixope,79,Pixope is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,9.12,Education,True,18070234,1913
+Vidoo,25,"Vidoo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",26.2,Technology,True,2699636,1970
+Chatterbridge,39,"Chatterbridge provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",33.78,Transportation,False,14403912,1963
+Quaxo,31,"Quaxo provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",31.83,Finance,False,5582730,1912
+Wordpedia,27,"Wordpedia offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",44.65,Technology,False,20009233,1942
+Wordpedia,12,Wordpedia is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,85.14,Education,True,13072694,1994
+Bubbletube,68,Bubbletube is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,24.62,Education,False,35714531,1998
+Jatri,75,"Jatri offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",98.98,Retail,True,43966807,1907
+Jabbersphere,43,"Jabbersphere is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",81.25,Healthcare,True,4414145,1947
+Zooxo,91,"Zooxo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",84.53,Retail,True,10352493,1930
+Dynazzy,90,"Dynazzy is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",15.86,Hospitality,False,25107033,2015
+Ntags,34,Ntags is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,11.97,Education,False,24506013,1960
+Zoovu,43,"Zoovu provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",50.04,Transportation,False,38392094,1956
+Realbridge,60,"Realbridge offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",42.8,Retail,True,5888224,2010
+Realbridge,87,"Realbridge is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",95.07,Hospitality,False,34624516,1980
+Devshare,21,"Devshare provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",18.04,Transportation,True,44401207,1950
+Skilith,85,"Skilith is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",66.96,Healthcare,True,19515692,1923
+Realpoint,43,"Realpoint is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",22.92,Healthcare,True,34585003,1909
+Wikido,31,Wikido is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,23.05,Education,True,4692837,1978
+Blogpad,72,"Blogpad offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",4.07,Retail,False,11294550,1908
+Mudo,38,"Mudo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",0.15,Healthcare,False,46811941,1932
+Edgewire,39,Edgewire is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,18.51,Education,False,34810459,1979
+Nlounge,69,"Nlounge provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",53.66,Finance,True,15417911,1966
+Skyvu,46,"Skyvu provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",82.63,Transportation,True,23686656,1988
+Browseblab,19,"Browseblab specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",69.73,Manufacturing,True,5331068,1924
+Rhycero,44,"Rhycero specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",79.22,Manufacturing,False,16599544,2013
+Reallinks,80,"Reallinks offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",98.41,Technology,True,49457518,2023
+Viva,71,Viva is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,42.62,Education,True,46874704,1990
+Gigaclub,91,"Gigaclub offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",84.51,Retail,False,21237401,1989
+Tekfly,19,"Tekfly offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",82.97,Retail,True,3984037,1966
+Mynte,16,Mynte is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,83.15,Education,True,41012058,1989
+Skiptube,21,"Skiptube offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",82.28,Retail,False,47825865,1957
+Linkbuzz,48,"Linkbuzz offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",87.16,Retail,False,21468029,1955
+Lajo,80,Lajo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,53.36,Education,True,31103829,1980
+Layo,98,"Layo provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",65.65,Finance,False,2291156,1986
+Quatz,49,"Quatz offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",99.57,Technology,True,11947308,1969
+Voonte,20,"Voonte provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",97.09,Transportation,False,19781418,1904
+Twitterlist,16,"Twitterlist specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",13.48,Manufacturing,True,26832149,2017
+Quinu,52,"Quinu is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",74.64,Hospitality,False,4173422,1957
+Roomm,19,"Roomm offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",55.73,Technology,True,29170914,1960
+Ntag,35,"Ntag provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",46.64,Transportation,True,4301654,1982
+Jabbersphere,64,"Jabbersphere is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",13.07,Hospitality,False,12747260,1997
+Trudeo,85,"Trudeo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",69.03,Retail,True,7038624,1993
+Kaymbo,73,"Kaymbo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",83.56,Manufacturing,True,28994497,1913
+Podcat,98,"Podcat offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",92.74,Technology,False,19160900,1961
+Topicshots,89,"Topicshots offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",74.74,Technology,False,31824472,1989
+Mita,70,"Mita offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",68.64,Retail,False,43478073,1902
+Skalith,93,"Skalith specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",29.16,Manufacturing,True,29956627,1963
+Mydeo,87,Mydeo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,36.11,Education,False,31829760,1943
+Skalith,87,"Skalith offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",66.56,Retail,True,38984031,2008
+Pixonyx,82,"Pixonyx is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",75.07,Healthcare,False,3597933,1936
+Meembee,97,"Meembee specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",32.41,Manufacturing,True,5863008,1979
+Eabox,60,"Eabox is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",70.99,Hospitality,False,23021870,1934
+Thoughtsphere,43,"Thoughtsphere offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",17.28,Technology,False,34480919,1922
+Skibox,44,"Skibox is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",19.07,Healthcare,True,31036179,1969
+Quatz,43,"Quatz offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",16.78,Retail,False,19707128,1953
+Zooxo,34,"Zooxo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",14.07,Hospitality,True,32064883,1912
+Yadel,61,"Yadel is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",49.66,Hospitality,False,31799829,2014
+Oyoyo,57,"Oyoyo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",63.01,Technology,False,6834617,1961
+Abatz,52,"Abatz is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",82.99,Healthcare,True,16971510,2009
+Abata,100,"Abata offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",60.48,Technology,True,26905101,1954
+Livetube,56,"Livetube offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",6.6,Technology,False,14453181,1946
+Linklinks,75,"Linklinks offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",92.59,Retail,True,46996774,1948
+Meedoo,29,"Meedoo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",36.84,Technology,True,29827298,1933
+Zoonder,20,"Zoonder offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",51.06,Technology,True,14492289,1972
+Livefish,46,"Livefish offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",75.45,Technology,True,11489873,1901
+Gabtune,34,"Gabtune offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",27.19,Retail,True,21215021,1948
+Skiptube,67,"Skiptube offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",11.42,Technology,False,34247812,2021
+Topicblab,75,"Topicblab provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",31.03,Finance,False,7432401,1952
+Voolith,30,"Voolith specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",56.2,Manufacturing,False,15768449,1997
+Ainyx,54,Ainyx is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,95.62,Education,False,22790467,2019
+Photobug,88,"Photobug is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",13.93,Healthcare,True,20633973,1955
+Dabjam,93,"Dabjam specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",87.25,Manufacturing,True,37247734,1988
+Thoughtmix,78,"Thoughtmix is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",88.55,Healthcare,True,19613747,2019
+Livetube,76,"Livetube offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",37.81,Technology,True,41708417,1953
+Wikivu,77,"Wikivu provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",78.76,Finance,True,45759637,1932
+Kimia,86,Kimia is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,36.28,Education,True,31910054,1962
+Dabshots,98,Dabshots is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,8.23,Education,True,49650826,1919
+Jabberstorm,47,Jabberstorm is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,49.95,Education,False,47467973,1986
+Livefish,89,"Livefish provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",53.85,Transportation,False,45742803,1921
+Jatri,19,"Jatri provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",82.15,Finance,False,47682090,1924
+Linktype,28,"Linktype is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",8.73,Hospitality,False,8956085,1919
+Thoughtbeat,43,"Thoughtbeat provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",85.35,Transportation,False,25627148,2019
+Jaxworks,90,Jaxworks is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,95.18,Education,False,16377879,1976
+Skimia,75,"Skimia specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",31.12,Manufacturing,True,30808681,1923
+Yamia,59,"Yamia offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",17.11,Retail,False,5402820,1966
+Topicware,56,"Topicware offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",21.86,Retail,True,11936605,1949
+Yozio,90,"Yozio is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",0.31,Healthcare,False,11069259,1903
+Rhynyx,34,Rhynyx is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,71.8,Education,False,36705203,1941
+Brainbox,39,"Brainbox is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",57.66,Healthcare,True,35422781,1938
+Trilia,78,"Trilia specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",86.15,Manufacturing,True,37386341,1904
+Devpoint,76,"Devpoint offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",65.59,Technology,True,28644529,1971
+Izio,69,"Izio specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",81.03,Manufacturing,False,4008741,1906
+Minyx,24,"Minyx provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",13.23,Finance,False,32599835,2015
+Voonyx,72,"Voonyx provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",60.6,Finance,True,14367099,1941
+Eazzy,14,Eazzy is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,6.47,Education,True,42142678,1978
+Voomm,11,"Voomm specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",57.26,Manufacturing,True,40927078,1942
+Zoovu,94,"Zoovu specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",29.76,Manufacturing,False,10048392,1912
+Jabberbean,43,"Jabberbean is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",75.61,Hospitality,True,34965811,1950
+Skajo,12,"Skajo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",2.92,Hospitality,False,32561098,1967
+Rhybox,40,"Rhybox is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",39.27,Healthcare,True,42662510,1924
+Fliptune,36,"Fliptune offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",1.36,Technology,True,10359994,1918
+Voonder,36,"Voonder specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",49.87,Manufacturing,False,35759072,2004
+Fivebridge,91,Fivebridge is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,36.43,Education,False,32608737,1978
+Zoonder,52,Zoonder is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,50.59,Education,False,29754745,2015
+Mydo,16,"Mydo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",88.55,Healthcare,False,3052966,1995
+Cogibox,87,"Cogibox is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",62.71,Hospitality,False,22861138,1913
+Edgewire,53,"Edgewire specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",35.08,Manufacturing,False,42890528,1909
+Realmix,19,"Realmix is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",60.72,Hospitality,True,30145630,1974
+Yambee,54,"Yambee provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",65.59,Finance,False,46419473,1919
+Jatri,57,"Jatri offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",10.04,Technology,True,42633313,2015
+Yotz,76,"Yotz offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",74.32,Retail,False,29342078,1948
+Linkbuzz,28,"Linkbuzz offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",45.88,Retail,False,23742956,1986
+Bluejam,82,"Bluejam provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",87.46,Finance,True,10328072,1929
+Topicshots,21,"Topicshots specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",7.35,Manufacturing,False,47469465,1923
+Kwideo,76,"Kwideo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",69.93,Healthcare,True,28532538,1961
+Yambee,71,Yambee is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,1.8,Education,True,13890704,1945
+Feedfish,11,"Feedfish specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",67.14,Manufacturing,False,4401043,1957
+Mydeo,34,Mydeo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,97.12,Education,True,39222043,1998
+Babbleset,46,Babbleset is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,12.64,Education,False,20714725,2002
+Thoughtbeat,40,"Thoughtbeat specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",37.18,Manufacturing,False,45486015,1941
+Trudoo,98,"Trudoo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",86.07,Manufacturing,True,29229525,1972
+Thoughtsphere,55,"Thoughtsphere offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",6.07,Retail,False,42553321,1962
+Roodel,64,Roodel is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,92.07,Education,True,33203317,1949
+BlogXS,85,"BlogXS offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",84.34,Technology,False,5419415,1988
+Oyope,97,"Oyope offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",29.94,Technology,False,34511002,1980
+Gigabox,63,"Gigabox is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",24.11,Healthcare,False,10271595,1970
+Kwilith,66,"Kwilith specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",93.35,Manufacturing,False,7214394,1904
+Brainsphere,95,"Brainsphere offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",80.54,Technology,False,12269802,1947
+Jazzy,56,"Jazzy is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",57.2,Healthcare,True,25865559,1912
+Ooba,14,"Ooba provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",54.88,Transportation,True,9944741,2017
+Yozio,16,"Yozio specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",19.34,Manufacturing,False,43402514,1979
+Mybuzz,99,"Mybuzz specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",54.06,Manufacturing,False,26922657,2016
+Trudeo,67,"Trudeo provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",63.15,Transportation,True,49292007,1933
+Teklist,59,"Teklist specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",12.29,Manufacturing,False,22539369,2023
+Jabbertype,41,"Jabbertype offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",46.91,Retail,False,32522973,1934
+Zazio,85,"Zazio offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",74.35,Retail,False,36551048,1903
+Brainverse,91,"Brainverse is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",52.83,Healthcare,False,32543184,1962
+Devpulse,55,"Devpulse is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",51.57,Healthcare,False,22279174,1957
+Midel,48,"Midel specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",42.53,Manufacturing,False,13065035,1917
+Topdrive,85,"Topdrive offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",93.42,Technology,True,31945044,1943
+Dynabox,71,"Dynabox offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",43.81,Technology,True,12611507,1986
+Snaptags,98,"Snaptags specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",3.28,Manufacturing,False,8442866,1949
+Meejo,93,"Meejo provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",93.43,Finance,True,14522026,2007
+Realblab,86,"Realblab offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",79.02,Technology,False,39052262,1967
+Zoomzone,53,"Zoomzone offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",97.15,Retail,False,41664810,1921
+Meezzy,47,"Meezzy offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",30.16,Retail,True,22682774,1939
+Devpulse,27,Devpulse is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,61.05,Education,True,32155977,1923
+Jabbertype,33,"Jabbertype specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",86.46,Manufacturing,False,41823963,2016
+Youspan,28,"Youspan offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",76.88,Retail,True,46084907,1930
+Babbleset,36,"Babbleset is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",70.05,Healthcare,False,4955429,2011
+Yakijo,57,"Yakijo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",49.33,Healthcare,False,28021095,1949
+Quimm,61,"Quimm provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",15.96,Transportation,False,14638784,1959
+Edgepulse,65,"Edgepulse offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",70.36,Retail,True,47630184,2023
+Demimbu,75,"Demimbu is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",4.13,Hospitality,True,12028624,2001
+Feedbug,94,"Feedbug offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",4.72,Technology,True,24003610,1924
+Kaymbo,48,"Kaymbo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",13.43,Healthcare,False,24175689,2020
+Kimia,70,"Kimia provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",5.03,Transportation,False,8598019,1980
+Riffpedia,34,"Riffpedia offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",81.65,Retail,False,43956538,1971
+Divape,83,"Divape is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",9.9,Hospitality,True,23041178,1943
+Dabvine,65,"Dabvine provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",88.24,Finance,False,41112431,1911
+Jatri,39,"Jatri is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",41.1,Healthcare,False,49549190,1947
+Twitterwire,65,"Twitterwire provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",18.98,Transportation,False,22738561,1909
+Ooba,22,"Ooba provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",54.07,Transportation,True,18207041,2009
+Dynabox,95,"Dynabox is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",73.6,Healthcare,True,40479390,2012
+Aimbo,56,"Aimbo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",44.44,Manufacturing,True,44449502,1937
+Meeveo,26,"Meeveo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",49.18,Retail,False,3827158,1949
+Yadel,85,"Yadel is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",78.11,Healthcare,True,9758926,2010
+Skilith,72,"Skilith offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",42.4,Technology,True,32387285,1958
+Innojam,90,"Innojam offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",62.53,Technology,False,17756708,1977
+Voomm,58,"Voomm offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",82.81,Technology,False,19488972,1955
+Thoughtmix,43,"Thoughtmix offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",81.32,Technology,False,49082768,2008
+Divanoodle,37,"Divanoodle is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",53.26,Hospitality,False,22904314,1958
+Buzzster,38,"Buzzster provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",99.78,Finance,False,14816235,1932
+Mynte,32,"Mynte provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",97.23,Transportation,False,41286347,1911
+Miboo,29,"Miboo provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",44.0,Transportation,False,15958570,2016
+InnoZ,87,"InnoZ provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",16.54,Finance,False,9039214,1902
+Brainlounge,73,"Brainlounge provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",79.31,Finance,True,43223429,1943
+Twitternation,91,"Twitternation provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",49.93,Finance,False,3916847,1913
+Eidel,38,"Eidel provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",21.05,Finance,True,28516319,1922
+Gabtune,79,"Gabtune offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",34.02,Retail,False,21797794,2000
+Fliptune,28,"Fliptune is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",91.98,Healthcare,False,13896234,1930
+Einti,17,"Einti offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",29.61,Retail,False,43778530,1974
+JumpXS,70,"JumpXS specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",32.47,Manufacturing,True,29049068,1944
+Avaveo,40,Avaveo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,79.44,Education,False,24977167,1930
+Linkbuzz,74,"Linkbuzz is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",86.37,Hospitality,False,38723789,1912
+Tagopia,36,Tagopia is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,35.88,Education,True,34115242,2014
+Buzzdog,91,"Buzzdog provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",46.42,Finance,False,21958487,1915
+Devbug,99,"Devbug offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",46.09,Technology,True,29696398,1900
+Kare,11,"Kare is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",39.36,Hospitality,False,46493342,1947
+Tanoodle,68,"Tanoodle offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",10.37,Technology,True,32423647,1955
+Feednation,70,Feednation is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,89.87,Education,True,14662920,2018
+Livetube,75,"Livetube is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",25.95,Healthcare,True,3634941,1936
+Mymm,95,"Mymm provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",14.71,Transportation,False,31564970,2019
+Avaveo,92,"Avaveo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",15.33,Hospitality,True,29228369,1961
+Jabberstorm,58,"Jabberstorm provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",41.07,Finance,False,39016126,2014
+Mydeo,50,"Mydeo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",98.94,Retail,False,32917348,1954
+Tavu,58,Tavu is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,66.74,Education,False,9121930,1944
+Eimbee,42,"Eimbee provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",82.28,Finance,False,22206839,1912
+Meezzy,75,"Meezzy offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",92.17,Retail,True,11026065,1952
+Yoveo,34,"Yoveo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",13.82,Hospitality,True,16610377,1967
+Twitterwire,49,"Twitterwire offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",81.86,Technology,False,18140571,1982
+Yombu,63,"Yombu offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",89.92,Technology,False,23985930,1955
+Fivechat,41,"Fivechat is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",17.47,Healthcare,False,20712431,1961
+Flipbug,84,"Flipbug is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",50.14,Healthcare,False,6873851,1977
+Voonte,29,Voonte is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,4.09,Education,True,33009847,2002
+Edgeclub,63,"Edgeclub offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",96.51,Retail,False,43388301,1967
+Kwinu,70,Kwinu is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,60.31,Education,False,44899552,1902
+Skyble,34,"Skyble is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",83.41,Healthcare,False,38680333,1927
+Zoomdog,87,Zoomdog is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,94.97,Education,False,26379326,1998
+Browsezoom,97,"Browsezoom offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",43.04,Retail,False,5996395,1978
+Quimba,35,"Quimba is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",52.01,Healthcare,False,14146094,1991
+Browsetype,37,Browsetype is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,74.4,Education,True,29960953,1976
+Blogtags,97,"Blogtags is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",11.39,Hospitality,False,23844994,1966
+Blogtag,83,"Blogtag provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",11.84,Transportation,False,38953437,1981
+Trunyx,89,Trunyx is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,73.2,Education,True,43707134,1914
+Ozu,84,"Ozu offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",44.06,Retail,False,43763441,1936
+Twinte,57,"Twinte is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",65.92,Healthcare,True,12126570,1973
+Eimbee,84,"Eimbee offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",9.93,Technology,False,49208497,1941
+Edgeclub,44,"Edgeclub is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",41.68,Healthcare,False,9094616,1932
+Digitube,79,"Digitube offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",82.83,Technology,True,35676589,1983
+Dabfeed,65,"Dabfeed specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",58.38,Manufacturing,False,42760186,1987
+Wordtune,27,"Wordtune offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",94.29,Technology,True,32449603,1905
+Divape,17,"Divape offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",26.91,Technology,True,24749054,2002
+Demimbu,18,"Demimbu provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",33.0,Transportation,False,22477049,2018
+Innojam,52,"Innojam offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",63.63,Retail,True,5405415,1977
+Devpoint,59,"Devpoint is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",20.73,Healthcare,False,31753360,1927
+Ooba,80,"Ooba specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",9.11,Manufacturing,False,45897070,1963
+Photojam,29,"Photojam provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",38.85,Transportation,False,23455592,2000
+Skyba,77,"Skyba specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",32.56,Manufacturing,True,31794233,1928
+Centidel,43,Centidel is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,83.91,Education,True,24378744,1997
+Lazzy,93,"Lazzy offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",95.23,Retail,True,25689644,1908
+Mymm,33,"Mymm provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",20.76,Finance,False,22574552,1918
+Izio,17,"Izio is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",4.8,Healthcare,False,28266063,1935
+Zava,38,"Zava offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",78.27,Technology,True,48046166,1948
+Topicstorm,50,"Topicstorm specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",74.52,Manufacturing,False,29531375,1967
+Rhycero,94,"Rhycero is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",11.93,Healthcare,False,13315939,1916
+Dablist,35,"Dablist provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",83.7,Finance,False,2218521,1959
+Flashspan,100,"Flashspan specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",7.5,Manufacturing,True,4845978,1910
+Divape,25,"Divape provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",13.04,Finance,False,14697946,1962
+Realpoint,48,Realpoint is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,10.05,Education,True,17886118,1981
+Tagpad,73,Tagpad is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,88.56,Education,True,8333212,1964
+Oba,54,"Oba offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",95.55,Technology,False,21239198,2013
+Meembee,89,"Meembee is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",82.45,Hospitality,False,38423535,1958
+Blogtag,93,"Blogtag is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",18.61,Hospitality,True,41549528,2005
+Voolia,79,"Voolia specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",44.09,Manufacturing,True,18737429,1965
+Jayo,53,"Jayo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",64.57,Technology,True,39657517,1978
+Kazu,98,"Kazu is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",84.33,Hospitality,True,14444799,1919
+Realbridge,56,"Realbridge offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",88.93,Retail,True,11820304,1954
+Jabbersphere,18,"Jabbersphere provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",34.81,Finance,True,10683412,1903
+Zoovu,68,"Zoovu is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",58.01,Hospitality,False,5494607,1924
+Brainbox,70,"Brainbox is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",75.43,Healthcare,True,24101023,1941
+Tazzy,20,Tazzy is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,88.02,Education,False,29421260,1935
+Teklist,19,"Teklist is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",26.4,Hospitality,False,24369975,1924
+Gigaclub,29,"Gigaclub specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",20.97,Manufacturing,True,37649523,2017
+DabZ,60,"DabZ is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",29.27,Healthcare,False,42188256,1910
+Devcast,61,"Devcast is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",23.18,Hospitality,True,24323040,1936
+Dynabox,26,"Dynabox specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",15.78,Manufacturing,False,27842340,1969
+Pixope,69,"Pixope provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",96.65,Finance,True,7060935,1997
+Dynabox,55,"Dynabox is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",53.54,Hospitality,False,14464228,1918
+Edgeclub,65,"Edgeclub offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",11.37,Technology,False,24185794,1914
+Buzzshare,90,"Buzzshare is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",84.65,Hospitality,True,38068300,1968
+Bluezoom,52,"Bluezoom offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",93.31,Retail,True,43589992,2003
+Quire,38,"Quire specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",68.88,Manufacturing,True,34231574,1992
+Topicware,34,"Topicware is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",68.67,Hospitality,True,29185083,1905
+Meevee,23,"Meevee specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",74.1,Manufacturing,False,40861622,1940
+Edgeify,94,"Edgeify provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",47.25,Finance,False,42957475,1900
+Rhycero,48,"Rhycero provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",36.32,Finance,False,33241138,1985
+Viva,88,"Viva is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",84.08,Healthcare,False,33324156,1994
+Tagpad,83,"Tagpad is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",51.08,Hospitality,False,24083459,1978
+Twitterworks,84,"Twitterworks provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",84.36,Transportation,True,28069942,1902
+Camimbo,11,"Camimbo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",53.75,Manufacturing,False,33343918,2006
+Skipfire,39,"Skipfire provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",19.89,Transportation,False,48778035,1951
+Kamba,79,Kamba is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,79.1,Education,True,45547891,1999
+Quimm,71,"Quimm offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",57.67,Technology,False,41441706,1928
+Snaptags,17,"Snaptags provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",82.24,Transportation,True,8255422,1969
+Trunyx,69,"Trunyx provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",28.39,Transportation,True,21317139,2000
+Thoughtstorm,93,"Thoughtstorm provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",28.4,Transportation,True,16223409,1960
+Dynazzy,78,Dynazzy is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,93.24,Education,True,45496335,1906
+Livetube,79,"Livetube is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",77.97,Hospitality,False,8479556,1969
+Dabfeed,35,"Dabfeed is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",29.47,Hospitality,True,14214422,1919
+Devshare,56,Devshare is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,12.37,Education,True,13744227,1917
+Thoughtbridge,44,"Thoughtbridge offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",78.57,Retail,True,9946155,2022
+Flashspan,95,"Flashspan provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",19.18,Transportation,True,14843182,1967
+Voonder,15,"Voonder is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",15.5,Healthcare,False,31525237,2003
+Digitube,96,"Digitube offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",99.7,Retail,True,45335647,1953
+Yodel,45,"Yodel is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",18.06,Healthcare,True,20116148,2013
+Pixoboo,94,"Pixoboo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",7.53,Manufacturing,False,19786974,1993
+Blogtag,24,"Blogtag specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",87.04,Manufacturing,True,37430379,1988
+Fivechat,12,"Fivechat provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",91.99,Finance,False,19178691,1946
+Topicware,13,"Topicware provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",39.79,Finance,True,26652005,2004
+Dabvine,60,"Dabvine is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",58.84,Healthcare,True,20532160,1911
+Janyx,38,"Janyx is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",29.01,Hospitality,False,28454837,1923
+Twitternation,70,"Twitternation provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",0.66,Transportation,False,21523608,1965
+Bubblemix,21,"Bubblemix is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",5.33,Healthcare,True,47333856,1919
+Demimbu,50,"Demimbu is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",57.32,Healthcare,False,45737502,1975
+Pixonyx,27,"Pixonyx is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",16.65,Healthcare,True,3118876,2004
+Aimbu,70,"Aimbu specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",42.9,Manufacturing,False,42714253,1922
+Miboo,78,"Miboo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",89.83,Technology,True,45909099,1938
+Gabcube,54,"Gabcube is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",97.95,Healthcare,False,30262984,1983
+Yotz,83,"Yotz provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",64.16,Finance,False,42852833,1950
+Linklinks,84,"Linklinks offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",39.01,Retail,True,8371415,1924
+Nlounge,16,Nlounge is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,96.93,Education,False,22222648,1989
+Zazio,83,"Zazio is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",41.26,Healthcare,False,29833677,1973
+Voolith,84,"Voolith offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",93.41,Technology,False,25930167,1939
+Mycat,71,Mycat is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,52.06,Education,True,40270382,2023
+Photojam,18,"Photojam is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",40.42,Healthcare,True,30073017,2002
+Quinu,21,"Quinu is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",23.92,Healthcare,False,18005039,1930
+Ntags,73,"Ntags offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",68.95,Technology,True,24114751,2008
+Cogibox,56,"Cogibox provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",53.55,Finance,False,25763998,1923
+Realcube,93,"Realcube is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",14.59,Healthcare,False,23479391,1963
+Wikizz,66,"Wikizz offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",74.69,Retail,True,34091592,1951
+Plajo,51,"Plajo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",2.81,Retail,False,45602806,1901
+Kare,28,"Kare specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",27.14,Manufacturing,True,4048521,1975
+Talane,97,"Talane provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",23.64,Transportation,False,20570980,1961
+Trudeo,54,"Trudeo provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",4.9,Transportation,True,17875786,1993
+InnoZ,58,"InnoZ is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",14.82,Hospitality,True,42219475,2011
+Katz,15,"Katz offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",38.79,Technology,True,29664705,1977
+Thoughtbridge,55,"Thoughtbridge provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",81.63,Transportation,True,5544599,1985
+Riffpath,84,"Riffpath is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",76.0,Hospitality,False,6970420,1913
+Zoovu,100,"Zoovu is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",38.19,Healthcare,True,9499338,1993
+Jabbercube,69,"Jabbercube specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",76.46,Manufacturing,True,28843873,1908
+Gigazoom,87,"Gigazoom provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",81.7,Finance,True,31837817,1984
+Kazio,42,"Kazio provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",3.57,Finance,False,38631863,2010
+Dynava,71,"Dynava provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",72.06,Finance,False,27685337,1920
+Skynoodle,11,"Skynoodle offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",95.88,Retail,False,15695623,1936
+Jatri,23,Jatri is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,37.94,Education,False,26185206,1918
+Browseblab,25,"Browseblab is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",30.3,Healthcare,True,43012343,1986
+Twitterbridge,50,"Twitterbridge specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",23.19,Manufacturing,True,44003371,1945
+Feednation,82,"Feednation specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",27.7,Manufacturing,False,30077165,2009
+Vinte,99,"Vinte is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",15.04,Healthcare,True,22849859,2021
+Meevee,22,"Meevee offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",20.59,Technology,False,40418664,2010
+Thoughtmix,67,"Thoughtmix offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",48.05,Technology,False,15994207,1923
+Gigashots,35,"Gigashots offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",41.46,Technology,False,31326497,2014
+Oyoyo,74,"Oyoyo provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",77.01,Transportation,False,26093197,1909
+Zoombox,42,"Zoombox offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",38.43,Retail,False,21316100,2003
+Gabtype,75,"Gabtype specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",30.11,Manufacturing,True,6345769,2008
+Livepath,100,"Livepath provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",71.96,Finance,False,31516823,1988
+Innotype,22,"Innotype is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",68.57,Healthcare,True,28999413,1923
+Centizu,67,"Centizu offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",38.46,Technology,False,45454026,1923
+Mymm,93,"Mymm provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",8.94,Transportation,True,48941237,2010
+Wikido,94,"Wikido offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",97.9,Technology,True,43374293,2004
+Skinix,77,"Skinix offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",26.43,Technology,False,41560509,1962
+Photojam,56,Photojam is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,29.89,Education,False,21494862,1936
+Lazzy,20,"Lazzy provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",82.71,Transportation,True,41363861,2003
+Riffwire,40,Riffwire is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,82.4,Education,False,16271068,1973
+Twimbo,51,"Twimbo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",63.27,Technology,False,26419294,1923
+Shufflester,65,"Shufflester offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",67.22,Retail,True,44527254,1923
+Eare,70,"Eare is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",97.03,Healthcare,False,23266598,1922
+Skinix,53,"Skinix is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",1.54,Hospitality,True,12242766,1924
+Abata,61,"Abata provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",11.05,Finance,True,27398377,2004
+Rhycero,85,"Rhycero offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",8.63,Retail,False,8105420,2010
+Twitterwire,89,"Twitterwire offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",54.56,Technology,False,2854817,1907
+Tanoodle,78,"Tanoodle provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",76.61,Transportation,True,19854300,2012
+Twinte,84,"Twinte is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",50.81,Healthcare,False,32490502,2024
+Feedbug,43,"Feedbug provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",86.42,Transportation,False,37152911,1922
+Eamia,69,Eamia is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,40.17,Education,True,33715210,1995
+Yodo,55,"Yodo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",20.48,Technology,False,37481360,1983
+Twimbo,43,"Twimbo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",90.47,Manufacturing,True,20700935,1968
+Skipfire,32,"Skipfire is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",69.84,Healthcare,True,10569400,1939
+Gigaclub,32,"Gigaclub specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",66.34,Manufacturing,False,45902413,1966
+Dabfeed,81,"Dabfeed is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",21.0,Hospitality,True,49299858,1904
+Kaymbo,73,"Kaymbo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",18.77,Retail,True,49477856,1952
+Fliptune,43,"Fliptune is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",9.14,Healthcare,False,3622343,1914
+Wordpedia,85,"Wordpedia offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",64.0,Technology,False,22857861,1919
+Skynoodle,30,"Skynoodle offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",69.04,Technology,True,40430330,1956
+Yadel,28,"Yadel provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",10.93,Finance,True,41953404,1969
+Flipbug,68,"Flipbug provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",2.98,Transportation,True,12651011,1957
+Myworks,71,"Myworks provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",66.81,Finance,True,3694119,2009
+Thoughtworks,85,"Thoughtworks provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",2.78,Finance,True,37979633,1956
+Gigazoom,98,"Gigazoom offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",1.6,Retail,False,20483623,1908
+Zoomlounge,48,"Zoomlounge provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",26.6,Transportation,False,41335793,1968
+Dazzlesphere,53,"Dazzlesphere offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",16.45,Technology,False,18825867,1912
+Demimbu,12,"Demimbu is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",92.79,Hospitality,False,34502113,1986
+Eimbee,29,"Eimbee provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",68.83,Transportation,True,10923021,1936
+Linklinks,15,"Linklinks offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",70.73,Technology,False,11386346,1939
+Skinder,54,Skinder is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,47.79,Education,True,37248437,1925
+Jaxworks,52,"Jaxworks provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",35.34,Transportation,False,32863687,2004
+Vinder,70,"Vinder specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",21.85,Manufacturing,False,31945034,1941
+Izio,21,Izio is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,34.53,Education,False,7664999,1924
+Edgeblab,42,"Edgeblab provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",93.57,Transportation,False,25101080,1988
+BlogXS,51,"BlogXS provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",37.44,Transportation,True,13195892,1911
+Wordify,100,"Wordify offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",47.32,Technology,False,12508881,1928
+Zoomlounge,92,"Zoomlounge is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",60.67,Healthcare,False,20232466,1933
+Skiba,75,"Skiba is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",76.19,Hospitality,False,17946186,1963
+Zooxo,17,"Zooxo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",4.36,Retail,False,48339756,2024
+Rhynoodle,75,"Rhynoodle is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",27.85,Hospitality,True,20938894,2016
+Gigaclub,36,"Gigaclub is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",74.14,Healthcare,False,24473850,2019
+Flipstorm,35,"Flipstorm offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",2.57,Technology,False,17456322,1909
+Zoomlounge,80,"Zoomlounge is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",37.04,Healthcare,True,29231146,1981
+Jaxworks,85,"Jaxworks offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",24.79,Retail,True,10358491,1955
+Linklinks,49,"Linklinks specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",75.81,Manufacturing,True,35136355,1964
+Zoombeat,100,"Zoombeat provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",27.66,Transportation,True,18063087,1966
+Gigaclub,67,"Gigaclub offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",48.49,Technology,True,40966486,1939
+Cogibox,54,"Cogibox provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",50.27,Transportation,False,11675410,2005
+Zooveo,24,"Zooveo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",57.22,Manufacturing,True,41951400,1981
+Zoonder,45,"Zoonder is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",54.14,Healthcare,True,29122731,1931
+Zoovu,57,"Zoovu provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",72.6,Finance,True,36944974,2004
+Dazzlesphere,86,"Dazzlesphere offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",96.89,Retail,True,17109438,1960
+Flipstorm,82,"Flipstorm provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",59.61,Transportation,False,10940863,1974
+Edgeclub,23,Edgeclub is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,17.42,Education,False,7192527,1943
+Minyx,79,"Minyx provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",77.7,Finance,True,4625342,1929
+Rhyloo,21,"Rhyloo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",32.64,Healthcare,True,15142077,1944
+Realblab,52,"Realblab is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",6.54,Hospitality,False,8771726,1922
+Yodo,29,"Yodo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",2.88,Healthcare,True,36657680,2014
+Izio,19,"Izio offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",97.22,Retail,False,42982679,1942
+Tazz,34,"Tazz provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",61.51,Transportation,True,13872401,1974
+Janyx,94,Janyx is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,79.26,Education,True,48697828,2006
+Voolith,76,"Voolith offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",87.38,Technology,True,29050504,2018
+Ainyx,38,"Ainyx provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",13.87,Transportation,True,32040077,1979
+Devpoint,35,"Devpoint provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",58.16,Finance,False,4786372,1918
+Innojam,15,"Innojam provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",26.99,Transportation,False,7700468,2021
+Vitz,76,"Vitz offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",95.52,Technology,True,41618688,1930
+Browsecat,54,"Browsecat is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",8.44,Hospitality,True,39189689,1923
+Jaloo,57,"Jaloo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",45.32,Hospitality,True,23304849,1994
+Ooba,99,"Ooba specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",66.49,Manufacturing,False,9532980,2011
+Oodoo,81,Oodoo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,96.4,Education,True,37395963,1923
+Mycat,84,"Mycat is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",66.51,Healthcare,False,26541717,1965
+Feedfire,77,"Feedfire is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",63.53,Healthcare,False,7963385,1924
+Skalith,33,"Skalith provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",32.46,Finance,False,6378181,1957
+Eidel,59,"Eidel specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",22.55,Manufacturing,True,22035064,1924
+Buzzdog,13,Buzzdog is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,52.23,Education,False,3420247,1952
+Eidel,37,Eidel is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,65.01,Education,False,27646621,1934
+Jayo,42,"Jayo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",73.39,Retail,True,23635958,2008
+Buzzdog,27,"Buzzdog specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",42.31,Manufacturing,True,40113805,2010
+Voonte,35,"Voonte is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",18.22,Hospitality,True,20980553,1901
+Meevee,35,"Meevee provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",57.85,Finance,True,35908458,2012
+Einti,49,"Einti is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",70.4,Healthcare,True,23513548,2007
+Twitterworks,80,"Twitterworks offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",17.68,Technology,True,35695009,1921
+Lazz,77,Lazz is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,54.09,Education,True,14613053,1911
+Skimia,22,"Skimia specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",19.51,Manufacturing,False,27541202,1999
+Jaxworks,66,"Jaxworks is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",55.81,Healthcare,True,31768809,1909
+Blogpad,20,"Blogpad is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",4.53,Healthcare,True,9235652,2000
+Youfeed,36,"Youfeed provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",55.44,Transportation,True,44207198,1977
+Livepath,61,"Livepath is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",71.71,Hospitality,False,45829125,1957
+Topiczoom,87,"Topiczoom provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",88.32,Finance,False,5918225,1962
+Yacero,80,"Yacero offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",92.64,Retail,False,23164823,1916
+Realblab,86,"Realblab provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",0.67,Finance,True,45299155,1914
+Gigabox,94,"Gigabox is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",23.17,Hospitality,True,47104696,1937
+Thoughtworks,87,"Thoughtworks offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",3.54,Retail,True,26358035,2010
+Jayo,56,"Jayo provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",76.96,Transportation,True,41962333,1956
+Voonyx,98,"Voonyx specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",56.03,Manufacturing,True,24458859,1944
+Oyonder,36,Oyonder is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,48.28,Education,False,15718710,2002
+Youopia,62,"Youopia specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",46.07,Manufacturing,False,20694903,1939
+Jayo,86,"Jayo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",18.6,Hospitality,True,10723585,1983
+Oyope,100,"Oyope offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",56.12,Retail,True,34086731,1974
+Flashpoint,48,"Flashpoint provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",24.94,Finance,True,40633794,1914
+Yabox,27,"Yabox is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",75.46,Healthcare,True,48197506,2020
+Brainverse,22,"Brainverse provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",48.14,Finance,True,30888070,1932
+Dabvine,66,"Dabvine is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",76.74,Hospitality,False,11958180,1980
+Topicblab,70,"Topicblab specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",37.02,Manufacturing,False,47143376,1977
+Yata,89,"Yata is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",69.08,Healthcare,True,15467928,2024
+Mybuzz,64,"Mybuzz offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",85.28,Technology,True,43930718,1972
+Meeveo,78,Meeveo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,73.21,Education,True,16078791,1901
+Jayo,96,"Jayo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",65.62,Hospitality,False,45123910,2016
+Feedfish,79,"Feedfish provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",45.32,Transportation,False,41593178,2008
+Voomm,49,"Voomm offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",76.31,Technology,False,47194480,1955
+Oba,75,"Oba is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",11.71,Healthcare,False,41618832,1979
+Skimia,50,Skimia is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,38.08,Education,True,11407863,1912
+Jaxworks,59,"Jaxworks is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",69.08,Healthcare,False,13196093,1909
+Youspan,87,"Youspan offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",86.24,Retail,False,22135753,1958
+Rhyzio,39,"Rhyzio provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",68.66,Finance,False,36880383,2007
+Thoughtmix,32,"Thoughtmix is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",89.21,Healthcare,True,29821420,1999
+Skyba,47,"Skyba is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",11.68,Healthcare,False,22869844,1911
+Fivespan,63,"Fivespan provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",34.77,Transportation,True,42689845,2013
+Skibox,72,"Skibox offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",67.97,Retail,False,47168553,1991
+Cogibox,47,"Cogibox specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",56.12,Manufacturing,True,22779287,2013
+Fivebridge,61,"Fivebridge provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",30.89,Transportation,False,17473802,1935
+Einti,55,"Einti offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",75.85,Technology,True,24190713,1934
+Mudo,60,"Mudo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",48.76,Hospitality,True,19993489,1923
+Flashset,66,"Flashset offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",97.49,Technology,True,28661228,2021
+Zoombeat,94,"Zoombeat offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",59.12,Retail,False,27086972,1939
+Ainyx,82,"Ainyx offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",26.48,Technology,False,38614412,1978
+Blogspan,35,Blogspan is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,22.93,Education,True,26486821,1975
+Zava,49,"Zava provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",29.49,Transportation,True,8540132,1981
+Agivu,31,"Agivu provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",32.12,Finance,True,7303567,1968
+Twinte,72,"Twinte provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",61.26,Finance,True,21848523,1929
+Bluejam,68,"Bluejam provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",61.82,Finance,False,11874997,1931
+Skaboo,35,"Skaboo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",62.49,Retail,True,22582852,1967
+Kwilith,83,"Kwilith provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",27.81,Finance,True,40250323,1900
+Browsebug,78,"Browsebug offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",47.94,Retail,False,5202351,1993
+Browsedrive,43,"Browsedrive specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",49.09,Manufacturing,False,36580860,1974
+Youopia,49,"Youopia is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",75.95,Healthcare,True,23870684,1980
+BlogXS,14,"BlogXS specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",28.98,Manufacturing,False,28683892,1948
+Oyonder,40,"Oyonder specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",8.68,Manufacturing,False,19932512,2020
+Babbleopia,26,Babbleopia is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,81.97,Education,True,31986471,1993
+DabZ,89,"DabZ is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",7.26,Healthcare,False,20940516,1973
+Janyx,19,Janyx is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,31.89,Education,False,27929259,2002
+Browsebug,19,"Browsebug is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",21.57,Hospitality,True,32285503,1999
+Feedbug,84,"Feedbug specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",79.6,Manufacturing,False,38486577,1933
+Centizu,97,"Centizu is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",63.51,Hospitality,False,16534196,1919
+Omba,59,"Omba provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",20.22,Finance,False,13248527,1906
+Browsezoom,67,"Browsezoom offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",98.68,Retail,True,47357687,1947
+Fatz,34,"Fatz offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",28.8,Retail,True,8468134,1995
+Skilith,94,"Skilith offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",63.77,Retail,False,6876484,1977
+Skipstorm,29,"Skipstorm provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",70.71,Transportation,True,16821356,1985
+Yombu,62,"Yombu offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",55.08,Technology,True,24987610,1998
+Twinte,50,"Twinte is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",43.74,Hospitality,False,43682912,2014
+Feedfish,41,Feedfish is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,76.88,Education,True,4373593,1958
+Trupe,44,Trupe is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,30.88,Education,True,15007780,1991
+Buzzbean,41,"Buzzbean is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",73.84,Hospitality,True,37313596,1938
+Meetz,17,Meetz is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,1.94,Education,False,26914538,1928
+Tazzy,25,"Tazzy offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",97.37,Technology,False,47870902,2019
+Gabtune,20,Gabtune is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,41.91,Education,False,2287040,1938
+Kazio,89,"Kazio offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",9.41,Retail,False,44427948,1994
+Trudoo,51,"Trudoo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",86.73,Retail,True,22619928,1904
+Realmix,71,"Realmix offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",0.55,Technology,True,23299093,1974
+Photolist,27,Photolist is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,32.41,Education,True,11806253,1990
+Zooxo,23,"Zooxo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",44.87,Healthcare,True,9643124,2023
+Yakitri,55,"Yakitri provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",95.52,Finance,True,44986630,1927
+Devcast,82,"Devcast offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",75.88,Retail,True,31919294,2007
+Mybuzz,100,Mybuzz is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,15.36,Education,False,49213124,1904
+Bluezoom,86,"Bluezoom specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",36.06,Manufacturing,True,3829036,1959
+Jabbertype,66,"Jabbertype is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",95.17,Hospitality,True,41692300,1928
+Quatz,73,"Quatz specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",22.42,Manufacturing,False,17773457,1977
+Aimbo,32,"Aimbo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",90.25,Hospitality,False,21305458,2005
+Realfire,14,"Realfire offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",43.19,Technology,True,43597683,1993
+Gabtype,61,"Gabtype is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",25.43,Healthcare,True,9584187,1920
+Divavu,83,"Divavu is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",27.59,Healthcare,False,13078247,1996
+Tagpad,64,"Tagpad provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",87.54,Transportation,False,27390731,1920
+Mycat,76,Mycat is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,48.36,Education,True,25200374,2003
+Skimia,29,"Skimia offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",76.09,Technology,False,38861514,1965
+Blogtag,69,"Blogtag provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",90.06,Finance,True,47434796,2015
+Quinu,11,"Quinu is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",60.8,Hospitality,False,20451884,1984
+Talane,89,"Talane offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",23.54,Technology,True,31781034,1949
+Ozu,93,"Ozu is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",87.26,Healthcare,True,30636856,2017
+Rhycero,12,"Rhycero provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",61.96,Finance,False,41664457,1913
+Buzzdog,89,Buzzdog is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,42.86,Education,True,18425014,1915
+Skinte,36,"Skinte is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",47.27,Hospitality,True,6162013,1918
+Shuffletag,36,"Shuffletag is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",43.22,Hospitality,True,5080893,1903
+Voolith,84,"Voolith provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",74.99,Transportation,True,9568973,1918
+Kazu,15,Kazu is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,34.7,Education,False,6811868,1917
+Yodel,41,"Yodel specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",8.71,Manufacturing,True,28413933,1934
+Centizu,85,"Centizu is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",36.62,Hospitality,True,33169078,1935
+Yoveo,28,"Yoveo provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",44.33,Transportation,True,34877294,2011
+Flipbug,61,"Flipbug is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",34.52,Healthcare,True,19424854,1979
+Twitterbeat,40,Twitterbeat is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,80.73,Education,False,14520568,1970
+Photolist,49,"Photolist specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",82.76,Manufacturing,True,31339648,1975
+Voolith,75,"Voolith offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",53.5,Retail,False,2743125,1922
+Zava,50,"Zava provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",94.2,Finance,True,6103776,1983
+Buzzdog,41,"Buzzdog offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",78.33,Technology,True,31974853,1931
+Jamia,66,"Jamia specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",65.82,Manufacturing,False,14309450,1956
+Vinte,74,"Vinte specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",12.76,Manufacturing,True,16207181,1982
+Dabfeed,66,"Dabfeed is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",7.62,Hospitality,False,47651614,1989
+Zoovu,39,"Zoovu provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",31.62,Transportation,True,20395008,1968
+Skyvu,25,Skyvu is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,5.79,Education,False,47356981,1958
+Gigazoom,48,"Gigazoom offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",16.02,Retail,True,49574918,1957
+Kayveo,90,"Kayveo provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",7.47,Transportation,False,37592345,1912
+Myworks,48,"Myworks is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",78.27,Hospitality,False,10458656,1984
+Digitube,24,"Digitube is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",48.16,Hospitality,False,10004757,1999
+Oyoloo,18,"Oyoloo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",72.87,Technology,True,8885790,1957
+Skaboo,45,"Skaboo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",20.07,Manufacturing,True,5089559,1917
+Talane,57,"Talane specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",37.35,Manufacturing,True,27662771,1979
+Kare,37,"Kare provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",5.45,Transportation,False,42726842,1979
+Gabcube,65,"Gabcube provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",79.29,Finance,False,33304036,1990
+Jayo,24,"Jayo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",43.72,Technology,True,41940467,1955
+Avamba,28,"Avamba offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",87.04,Technology,False,38144262,2012
+Npath,94,"Npath offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",34.07,Technology,True,36022489,1970
+Fiveclub,41,"Fiveclub specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",47.16,Manufacturing,True,11039290,1979
+Mydo,69,"Mydo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",31.61,Hospitality,False,14144973,1967
+Flipopia,37,"Flipopia provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",22.33,Finance,False,40233268,1936
+Devpoint,100,"Devpoint provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",30.6,Transportation,True,49877986,1985
+Vinte,30,"Vinte provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",32.61,Finance,True,37520233,2000
+Divanoodle,85,"Divanoodle offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",75.2,Retail,False,39068414,1995
+Buzzbean,38,"Buzzbean provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",94.55,Finance,False,8576268,1900
+Vinder,80,"Vinder provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",72.22,Transportation,True,32037272,1938
+Devpulse,45,"Devpulse offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",64.7,Technology,True,48360880,1934
+Rhynyx,88,Rhynyx is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,63.18,Education,True,8937370,1995
+Realcube,65,"Realcube provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",61.19,Finance,False,16025864,1925
+Nlounge,62,"Nlounge specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",27.19,Manufacturing,True,35893761,1904
+Skilith,18,"Skilith offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",62.21,Retail,False,46185593,1998
+Vinte,37,"Vinte offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",10.95,Technology,True,47225402,2013
+Gabvine,19,"Gabvine is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",32.42,Healthcare,False,16960538,2024
+Thoughtmix,72,"Thoughtmix provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",99.01,Finance,False,18835890,1943
+Jabberstorm,16,"Jabberstorm offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",51.25,Retail,True,26502824,2014
+Vinder,71,"Vinder provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",51.12,Finance,True,35234874,1994
+Lajo,92,Lajo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,48.22,Education,False,36423937,2014
+Quire,70,"Quire is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",8.85,Healthcare,True,28256370,1945
+Edgetag,49,"Edgetag provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",49.44,Finance,False,32034657,1924
+Skiba,27,"Skiba provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",67.92,Transportation,True,5376994,2010
+Jayo,22,"Jayo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",71.79,Manufacturing,True,22270176,1990
+Myworks,50,Myworks is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,61.72,Education,True,24596431,1939
+Zava,21,"Zava offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",97.56,Technology,True,13541842,1976
+Babbleopia,66,"Babbleopia specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",81.54,Manufacturing,False,47090650,1946
+Dablist,42,"Dablist specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",95.44,Manufacturing,True,25911387,1955
+Zooxo,42,"Zooxo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",83.67,Healthcare,False,11043939,1916
+Skinte,91,"Skinte offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",54.14,Technology,False,26437872,1979
+Devcast,69,Devcast is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,36.38,Education,False,16631122,1963
+Browseblab,79,Browseblab is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,22.69,Education,True,9441478,1930
+Youopia,89,"Youopia is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",94.92,Hospitality,True,43332675,1961
+Rhyzio,57,Rhyzio is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,20.52,Education,False,30372174,1903
+Kwilith,14,"Kwilith provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",91.36,Transportation,False,31369782,1939
+Viva,42,"Viva is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",80.32,Healthcare,False,17113323,2003
+Jabbertype,34,"Jabbertype offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",2.94,Technology,False,30503512,2002
+Quimm,50,"Quimm offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",57.65,Retail,False,39066279,1984
+Ailane,29,"Ailane provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",86.87,Finance,False,9059829,2008
+Feedfish,32,Feedfish is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,4.94,Education,True,14605800,1969
+Kamba,70,"Kamba offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",1.2,Technology,True,19904612,1992
+Leexo,89,"Leexo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",80.05,Hospitality,False,49597010,2021
+Jabbertype,89,Jabbertype is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,61.45,Education,True,4798150,1998
+Zooxo,60,"Zooxo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",90.91,Technology,False,48687145,2022
+Eazzy,27,"Eazzy provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",58.05,Transportation,False,19305031,1971
+Kaymbo,20,"Kaymbo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",55.31,Hospitality,False,2596255,1902
+Divavu,83,"Divavu specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",47.64,Manufacturing,False,18494256,1948
+Oyondu,84,"Oyondu provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",34.17,Finance,False,18629920,1929
+Realcube,62,"Realcube provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",9.59,Transportation,False,14891190,2007
+Realbridge,22,"Realbridge offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",49.01,Retail,True,12922255,2007
+Babblestorm,76,"Babblestorm offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",18.91,Technology,True,20603882,2021
+Podcat,44,"Podcat provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",7.07,Transportation,True,20848294,1989
+Myworks,24,"Myworks specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",32.4,Manufacturing,True,10677138,1966
+Skynoodle,93,"Skynoodle specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",26.63,Manufacturing,True,38004725,1955
+Brainbox,63,"Brainbox offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",87.65,Retail,True,46923310,1914
+Wikido,71,"Wikido offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",64.24,Retail,False,3493039,1911
+Fatz,96,"Fatz provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",46.54,Finance,True,7916915,2007
+Realbridge,18,"Realbridge offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",20.93,Technology,True,22993279,1927
+Quaxo,89,"Quaxo provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",6.83,Finance,False,19872968,1985
+Muxo,66,"Muxo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",25.8,Manufacturing,True,14564088,1963
+Skinix,50,"Skinix offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",51.38,Retail,True,43066125,2002
+Cogilith,15,"Cogilith specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",0.05,Manufacturing,False,41688614,1940
+Rhynoodle,71,"Rhynoodle provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",91.08,Finance,True,42617512,1906
+Yacero,61,"Yacero provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",31.62,Transportation,True,25119996,1936
+Digitube,52,"Digitube provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",81.64,Transportation,False,46304044,1933
+Fanoodle,61,"Fanoodle provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",46.44,Transportation,False,14932963,1904
+Tazz,54,"Tazz is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",31.85,Hospitality,True,12945408,1950
+Shuffletag,93,"Shuffletag provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",71.89,Finance,True,18654505,1936
+Bubblemix,52,"Bubblemix provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",46.01,Finance,False,15025373,2014
+Buzzbean,57,"Buzzbean offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",83.91,Retail,True,4180594,1937
+Bubbletube,95,"Bubbletube is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",10.22,Hospitality,False,45677405,1982
+Skajo,87,Skajo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,54.9,Education,True,4471358,1998
+Brightdog,94,"Brightdog specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",0.82,Manufacturing,False,47833203,2011
+Voolith,60,"Voolith offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",10.37,Technology,True,11523950,2016
+Oyoyo,97,"Oyoyo provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",77.58,Transportation,False,23601888,1989
+Jayo,35,"Jayo provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",70.02,Finance,False,9642126,1931
+Jazzy,86,Jazzy is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,56.91,Education,False,39200573,1999
+Feednation,25,Feednation is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,24.47,Education,True,3863593,1997
+Voomm,13,"Voomm is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",86.1,Hospitality,False,41861446,2020
+Quaxo,31,"Quaxo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",6.16,Hospitality,False,2896689,1971
+Tanoodle,51,"Tanoodle specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",7.51,Manufacturing,True,22015369,1931
+InnoZ,23,"InnoZ provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",42.46,Transportation,True,29161802,1902
+Browsecat,55,"Browsecat provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",20.89,Finance,False,17359315,1991
+Youopia,83,"Youopia specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",60.14,Manufacturing,True,48168390,1990
+Youbridge,11,"Youbridge is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",64.47,Healthcare,True,3848629,1990
+Zoonder,55,"Zoonder is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",8.24,Healthcare,True,49152644,1972
+Fatz,34,Fatz is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,10.09,Education,True,3353674,1971
+Oyoba,100,"Oyoba provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",19.22,Finance,False,27115449,1959
+Shufflester,100,"Shufflester provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",70.47,Transportation,True,3636226,1960
+Avamba,59,"Avamba is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",21.08,Healthcare,False,46671087,2011
+Linkbuzz,37,"Linkbuzz specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",56.38,Manufacturing,True,6399574,1980
+Riffpath,23,"Riffpath specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",7.05,Manufacturing,False,10838617,1940
+Digitube,22,"Digitube provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",50.39,Finance,True,20447099,1922
+Vinte,41,"Vinte offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",15.61,Retail,True,24246261,1906
+Jabberbean,42,"Jabberbean specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",72.38,Manufacturing,False,16748375,2023
+Plambee,82,"Plambee offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",93.77,Retail,False,9605086,1949
+Topicware,80,"Topicware offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",83.5,Technology,True,38236108,1976
+Izio,98,"Izio is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",42.89,Healthcare,False,49083000,1963
+Ntag,100,"Ntag specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",12.73,Manufacturing,True,21767072,1912
+Dazzlesphere,15,"Dazzlesphere offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",13.61,Retail,False,41178388,1921
+Vinder,95,"Vinder provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",37.76,Finance,True,12302617,2021
+Rooxo,59,"Rooxo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",15.04,Manufacturing,True,2586838,1917
+Brainsphere,19,"Brainsphere is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",29.02,Healthcare,True,47377660,1923
+Fanoodle,79,"Fanoodle specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",39.71,Manufacturing,False,3715456,1965
+Eidel,41,"Eidel specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",0.77,Manufacturing,True,48166017,1934
+Nlounge,97,"Nlounge provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",15.48,Finance,False,7075628,1952
+Gabtype,52,"Gabtype is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",23.97,Hospitality,False,16355652,1966
+Gabtune,72,"Gabtune is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",15.96,Hospitality,False,18502227,2002
+Edgewire,15,"Edgewire provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",3.7,Finance,True,39195874,1967
+DabZ,66,"DabZ specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",28.12,Manufacturing,False,7786192,1983
+Zoonder,81,"Zoonder offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",96.78,Retail,False,49813420,1928
+Dynava,62,"Dynava is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",14.66,Hospitality,False,44321876,1908
+Izio,56,Izio is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,81.1,Education,False,32452117,1944
+Gabvine,23,"Gabvine provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",67.8,Finance,True,5578342,1956
+Gigashots,30,"Gigashots offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",59.86,Retail,True,35419488,1923
+Photobug,51,"Photobug offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",24.35,Retail,True,7708414,1912
+Zoombeat,81,"Zoombeat is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",73.93,Hospitality,False,19220939,1945
+Npath,81,"Npath provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",22.1,Transportation,True,22216311,1976
+Blogtags,12,"Blogtags offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",39.12,Technology,True,8886450,1974
+Eimbee,37,Eimbee is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,84.08,Education,False,24238532,2009
+Snaptags,24,"Snaptags is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",67.19,Hospitality,True,30732545,1986
+Meevee,25,"Meevee provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",72.33,Transportation,True,12025307,1930
+Bubblemix,70,"Bubblemix specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",59.47,Manufacturing,True,14299050,1989
+Lazzy,91,"Lazzy provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",1.0,Transportation,False,49802809,1905
+Cogilith,28,Cogilith is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,95.69,Education,True,30406395,2000
+Voonix,76,"Voonix is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",62.14,Healthcare,True,34027139,1938
+Divape,21,"Divape offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",67.33,Technology,False,29601768,2021
+Mycat,60,"Mycat specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",44.4,Manufacturing,False,6599888,1910
+Fivechat,34,"Fivechat offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",5.23,Retail,False,19174126,1975
+Voomm,78,"Voomm offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",61.2,Retail,False,34767287,1951
+Tazz,91,"Tazz is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",62.8,Hospitality,False,25146884,1979
+Agivu,50,"Agivu provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",85.81,Transportation,False,43298351,1988
+Livefish,37,"Livefish offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",95.79,Retail,True,9363148,1920
+Quamba,92,"Quamba offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",79.5,Technology,True,24809280,2024
+Realfire,92,"Realfire is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",34.07,Healthcare,True,11795515,1907
+Eidel,30,"Eidel specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",76.6,Manufacturing,False,23026386,1926
+Trunyx,17,"Trunyx offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",3.32,Technology,False,29421363,1945
+Janyx,75,"Janyx provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",88.25,Transportation,False,5499958,1950
+Tanoodle,40,Tanoodle is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,55.36,Education,False,44510223,1974
+Trilith,96,"Trilith provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",43.61,Finance,True,12449982,1921
+Meevee,36,"Meevee provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",77.43,Finance,False,21643789,2001
+Ailane,60,"Ailane offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",98.08,Retail,True,15268446,1959
+Gabvine,48,Gabvine is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,5.07,Education,True,24737388,1968
+Bubblebox,69,"Bubblebox offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",68.21,Technology,False,22902526,1923
+Twimbo,66,Twimbo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,54.51,Education,True,41673459,1968
+Thoughtworks,84,"Thoughtworks offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",98.33,Technology,True,11376314,1958
+Yombu,49,"Yombu offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",47.45,Technology,True,16105570,1944
+Photospace,60,"Photospace provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",30.92,Finance,True,37678294,1982
+Yadel,63,"Yadel is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",44.73,Hospitality,True,48431124,1928
+Flashset,59,"Flashset is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",64.33,Hospitality,True,45238019,1967
+Cogibox,94,Cogibox is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,11.56,Education,True,39348407,1916
+Jamia,97,"Jamia provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",76.54,Transportation,True,23677013,1965
+Twiyo,80,"Twiyo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",49.08,Hospitality,False,28503447,1972
+Realfire,71,"Realfire offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",21.03,Technology,True,5512727,2005
+Buzzster,92,"Buzzster is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",72.32,Hospitality,True,47110354,1927
+Izio,51,"Izio is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",18.8,Hospitality,False,24622381,2012
+Realfire,32,"Realfire provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",32.49,Finance,True,15406666,1993
+Buzzdog,40,"Buzzdog is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",88.67,Hospitality,True,22015515,1928
+Meedoo,18,"Meedoo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",8.14,Hospitality,True,10048743,1933
+Meetz,31,"Meetz provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",72.32,Finance,False,47052752,2000
+Dynabox,15,"Dynabox provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",24.17,Transportation,False,21371748,1950
+Twitterlist,56,"Twitterlist provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",49.92,Finance,False,11460247,1938
+Skivee,36,"Skivee provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",30.9,Finance,False,15028383,2021
+Jayo,36,"Jayo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",40.02,Retail,False,4431140,1991
+Fanoodle,25,"Fanoodle provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",92.02,Finance,False,2957164,1957
+Shufflester,58,"Shufflester offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",39.04,Technology,False,47070562,1968
+Realblab,47,"Realblab provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",27.62,Transportation,True,2430866,1914
+Avamm,31,Avamm is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,45.02,Education,True,10766206,1922
+Izio,11,"Izio provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",32.08,Transportation,False,6040434,1910
+Realcube,70,"Realcube is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",3.34,Hospitality,True,19350565,1984
+Roomm,12,"Roomm provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",43.39,Transportation,False,17639210,1970
+Roodel,42,"Roodel is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",56.01,Healthcare,True,24376454,1922
+Yodel,21,"Yodel is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",19.16,Healthcare,True,12438836,1900
+Dynava,51,"Dynava is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",37.88,Healthcare,True,17306117,1945
+Topicstorm,74,"Topicstorm provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",42.68,Finance,False,3130295,1901
+Tagtune,86,"Tagtune is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",51.32,Hospitality,True,34269867,2001
+Ooba,14,"Ooba provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",85.31,Finance,True,44037113,1936
+Jazzy,23,"Jazzy offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",68.23,Technology,True,12742726,1915
+Voomm,74,"Voomm provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",46.51,Transportation,True,41075634,2003
+Voomm,95,"Voomm specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",26.18,Manufacturing,True,46985993,1966
+Myworks,27,Myworks is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,94.77,Education,False,20966846,1907
+Browsedrive,22,"Browsedrive offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",72.61,Technology,True,32418767,1940
+Tekfly,41,"Tekfly provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",93.01,Transportation,False,23053170,1990
+Trudeo,36,"Trudeo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",33.99,Technology,True,8342985,2019
+Ntags,25,"Ntags provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",66.65,Finance,True,9659434,1976
+Skimia,21,"Skimia offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",75.34,Technology,True,26194502,1950
+Meedoo,32,"Meedoo provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",19.27,Finance,False,28757440,2013
+Oloo,55,"Oloo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",37.78,Technology,False,7498632,1902
+Blognation,91,"Blognation is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",68.48,Hospitality,True,29533113,1928
+Browseblab,56,"Browseblab provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",98.73,Transportation,True,5753281,1943
+Shufflebeat,94,"Shufflebeat offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",40.22,Technology,False,13067253,1923
+Flashpoint,46,"Flashpoint provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",95.43,Finance,True,19965441,1984
+Fanoodle,59,"Fanoodle provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",60.62,Transportation,True,29824676,1949
+Skaboo,77,"Skaboo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",4.41,Technology,True,31023602,1917
+Zoomcast,94,"Zoomcast offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",12.2,Technology,False,6307860,1933
+Tagcat,40,"Tagcat offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",24.9,Retail,True,13719222,1963
+Youtags,56,"Youtags provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",8.95,Finance,False,39962064,1961
+Linktype,35,"Linktype offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",53.86,Technology,True,38189491,1903
+Edgeblab,46,"Edgeblab is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",73.79,Hospitality,False,11655098,1963
+Jetwire,68,"Jetwire offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",33.76,Retail,True,42266859,1953
+Twimbo,83,"Twimbo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",35.21,Hospitality,False,28567475,2007
+Myworks,78,"Myworks offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",78.9,Technology,False,14442719,1978
+Kazu,37,Kazu is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,86.13,Education,False,19798272,1908
+Livefish,63,"Livefish is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",7.63,Hospitality,True,45562018,1953
+Cogilith,68,"Cogilith offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",34.54,Technology,True,45321267,1955
+Linkbridge,17,"Linkbridge is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",89.32,Hospitality,False,29801883,1936
+Izio,18,"Izio provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",95.71,Finance,True,42692693,1909
+Tagpad,26,Tagpad is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,36.9,Education,True,40512321,1998
+Mydeo,55,"Mydeo provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",25.38,Finance,True,15050953,1956
+Pixoboo,32,"Pixoboo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",86.38,Manufacturing,True,10228232,1910
+Edgewire,42,"Edgewire is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",34.37,Hospitality,False,24924941,1984
+Plajo,92,"Plajo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",52.71,Healthcare,False,16952020,1937
+Voonder,29,"Voonder specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",20.38,Manufacturing,True,8148902,2022
+Babbleset,14,Babbleset is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,97.54,Education,False,34032550,1961
+Tagtune,47,"Tagtune is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",3.87,Hospitality,True,37983783,1965
+Gigaclub,69,"Gigaclub is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",19.1,Hospitality,True,47519375,1933
+Twitterworks,90,"Twitterworks offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",84.02,Technology,False,16785394,1906
+Viva,69,"Viva provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",50.78,Transportation,True,46515160,2020
+Photobug,25,"Photobug offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",8.57,Retail,False,30344299,1944
+Ozu,82,"Ozu is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",5.16,Hospitality,True,6563255,1998
+Riffwire,21,"Riffwire specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",62.06,Manufacturing,False,21812566,2010
+Eire,57,"Eire specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",12.73,Manufacturing,False,10006428,1904
+Jetwire,36,"Jetwire offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",70.06,Technology,True,44677847,1925
+Twimbo,71,"Twimbo provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",26.58,Transportation,False,44232982,1920
+Jabberstorm,49,"Jabberstorm specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",69.08,Manufacturing,True,43852912,2012
+Aibox,11,"Aibox is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",58.07,Healthcare,False,46119120,1909
+Thoughtmix,85,"Thoughtmix is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",58.87,Hospitality,False,2789819,1965
+Shufflebeat,77,"Shufflebeat is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",38.87,Healthcare,False,40188921,2005
+Ailane,34,"Ailane offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",14.24,Technology,False,5759943,1933
+Wikivu,42,Wikivu is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,85.01,Education,False,28174552,1901
+Edgeblab,52,"Edgeblab offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",26.45,Technology,False,17253215,1969
+Quinu,98,"Quinu specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",2.42,Manufacturing,True,30517999,2010
+Kazu,48,"Kazu offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",95.22,Retail,True,33252512,1986
+Wordify,79,"Wordify provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",94.87,Finance,True,8518738,1946
+Skynoodle,21,"Skynoodle provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",76.01,Transportation,False,8220476,1972
+Oyope,20,"Oyope offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",81.07,Technology,False,4861301,1987
+Kwilith,67,"Kwilith offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",61.91,Technology,True,35399011,1975
+Voolith,92,"Voolith provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",10.09,Finance,True,8014369,1906
+Ailane,39,Ailane is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,43.69,Education,False,21723971,2022
+Vimbo,47,"Vimbo provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",24.02,Finance,True,27890252,1901
+Buzzdog,45,"Buzzdog provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",57.34,Finance,False,18496755,2021
+Blogtag,71,"Blogtag specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",75.93,Manufacturing,False,9236085,1978
+Plajo,81,"Plajo is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",65.89,Healthcare,True,25472579,1937
+Skipfire,61,"Skipfire offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",26.32,Retail,True,48769167,1936
+Brainbox,52,"Brainbox specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",62.0,Manufacturing,False,20582699,1971
+Thoughtmix,93,"Thoughtmix provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",35.72,Transportation,True,44237589,1986
+Linkbridge,99,"Linkbridge offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",8.42,Technology,True,41203416,1936
+Twiyo,84,Twiyo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,28.48,Education,False,40927890,1996
+Trupe,72,"Trupe provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",48.16,Finance,False,45564117,1970
+Quatz,36,"Quatz is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",41.87,Healthcare,True,42630976,1907
+Bubbletube,14,Bubbletube is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,75.42,Education,True,23261712,1929
+Yata,50,"Yata provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",57.41,Transportation,True,49375761,1981
+Mudo,23,"Mudo provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",24.34,Finance,True,48539189,1968
+Thoughtsphere,29,"Thoughtsphere is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",26.11,Hospitality,True,7124072,2008
+Tagfeed,95,"Tagfeed offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",4.05,Technology,False,32666753,2007
+Yambee,37,"Yambee provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",83.72,Transportation,False,31615683,1952
+Dynabox,59,"Dynabox provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",38.85,Transportation,True,6820128,1961
+Twimbo,57,"Twimbo provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",99.35,Transportation,False,8125400,1985
+Fivebridge,28,"Fivebridge offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",84.44,Technology,False,14267492,1905
+Nlounge,57,"Nlounge provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",68.68,Finance,False,45511085,1961
+Gabcube,90,"Gabcube is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",53.75,Healthcare,False,9091136,1980
+Topdrive,88,"Topdrive specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",6.19,Manufacturing,True,39695575,1974
+Flashset,92,"Flashset specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",32.15,Manufacturing,True,46267647,1977
+Jabbertype,15,"Jabbertype offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",53.22,Technology,False,14020046,1959
+Eamia,73,"Eamia provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",54.73,Finance,False,12296905,1951
+Innojam,92,"Innojam provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",81.39,Finance,False,8348937,1990
+Gigabox,49,"Gigabox offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",30.28,Technology,False,42774117,2006
+Npath,84,"Npath provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",80.45,Finance,False,37844773,1912
+Zoonder,82,"Zoonder is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",69.12,Hospitality,False,24966310,1935
+Yakidoo,46,"Yakidoo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",83.71,Manufacturing,True,47832676,1911
+Thoughtbeat,29,"Thoughtbeat specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",10.84,Manufacturing,False,17848211,1913
+Linkbuzz,28,"Linkbuzz provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",23.76,Finance,False,5401421,1938
+Photobug,89,"Photobug is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",99.9,Hospitality,False,7544281,2004
+Skidoo,44,"Skidoo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",52.87,Hospitality,True,46928644,1992
+Kazu,59,"Kazu offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",62.45,Technology,False,11507562,1929
+Chatterbridge,99,"Chatterbridge provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",36.8,Transportation,True,49713178,1961
+JumpXS,58,"JumpXS provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",22.69,Transportation,True,25717032,1919
+Tagtune,17,"Tagtune is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",29.01,Hospitality,True,26708906,1954
+Voonte,76,"Voonte is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",76.86,Hospitality,False,31923849,2019
+Devpulse,37,"Devpulse provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",59.35,Finance,True,49996900,1937
+Livepath,60,"Livepath is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",22.05,Hospitality,False,15365769,1945
+Quimm,14,"Quimm specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",82.87,Manufacturing,False,36939191,2010
+DabZ,42,"DabZ offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",31.79,Technology,True,16059926,2007
+Skaboo,96,"Skaboo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",51.59,Technology,False,18187951,1973
+Tagopia,76,"Tagopia is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",97.32,Hospitality,True,19752608,1933
+Mydo,55,"Mydo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",2.72,Technology,True,7437064,1977
+Yadel,45,"Yadel provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",43.41,Finance,True,26344201,1904
+Twitterwire,52,"Twitterwire offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",91.92,Technology,True,20703736,1955
+Yodo,39,"Yodo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",63.73,Hospitality,True,11439082,2022
+Vimbo,49,"Vimbo provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",19.0,Transportation,False,15753272,2023
+Jayo,62,"Jayo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",54.89,Retail,False,6321393,2004
+Wordtune,59,"Wordtune is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",89.91,Hospitality,True,43299495,1919
+Zoombox,95,"Zoombox provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",32.9,Finance,True,40887905,2004
+Vinte,93,"Vinte is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",38.39,Healthcare,True,36976381,1911
+Voomm,95,"Voomm specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",91.79,Manufacturing,False,34877741,1939
+Babbleset,86,Babbleset is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,99.37,Education,False,24992201,2012
+Topicware,58,"Topicware specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",77.62,Manufacturing,True,36049015,2007
+Flashdog,19,"Flashdog is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",82.66,Healthcare,False,29085142,2009
+Dabjam,44,"Dabjam is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",0.71,Healthcare,False,45814234,1928
+Layo,69,Layo is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,98.31,Education,True,30915714,1987
+Zooveo,71,"Zooveo is a renowned name in the Hospitality, offering exceptional service and experiences for clients in the hospitality sector.",30.13,Hospitality,False,20699520,1961
+Photofeed,29,"Photofeed is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",11.78,Healthcare,False,16990203,1999
+Mybuzz,55,"Mybuzz provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",36.58,Transportation,True,22401477,1911
+Kaymbo,83,"Kaymbo specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",32.68,Manufacturing,True,41875667,1907
+Feedspan,68,"Feedspan specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",57.43,Manufacturing,False,40336712,1997
+Rooxo,40,"Rooxo offers specialized services in the Retail sector, with a focus on customer satisfaction and innovation.",61.12,Retail,False,40492180,1997
+Meemm,42,"Meemm offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",78.23,Technology,True,31018065,1970
+Zoomzone,43,Zoomzone is committed to revolutionizing the Education sector with cutting-edge educational tools and services.,10.63,Education,False,39089040,1952
+Quinu,40,"Quinu offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",6.83,Technology,True,15925179,1908
+Aivee,19,"Aivee specializes in producing high-quality products for the Manufacturing sector, with a focus on innovation and efficiency.",9.11,Manufacturing,True,48015108,1950
+Livefish,48,"Livefish provides reliable Transportation solutions, ensuring the safe and efficient movement of goods and people.",23.33,Transportation,True,33857310,1965
+Shufflester,21,"Shufflester provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",83.18,Finance,True,26521631,2014
+Flipbug,13,"Flipbug provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",74.95,Finance,True,19182576,1985
+Eayo,70,"Eayo offers advanced Technology solutions, empowering businesses with the latest innovations in the tech space.",91.12,Technology,True,4644692,2012
+Jamia,17,"Jamia provides a wide range of financial services, helping businesses and individuals achieve their financial goals.",56.94,Finance,True,44069076,1982
+Eare,96,"Eare is a leader in the Healthcare field, offering state-of-the-art solutions for medical services and patient care.",51.99,Healthcare,True,45595309,1970

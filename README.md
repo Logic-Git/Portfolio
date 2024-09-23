@@ -1,5 +1,5 @@
 # Introduction
-Welcome to my Data Science Portfolio! This repository showcases a selection of my data science projects, demonstrating my skills and competencies in the field. Each directory within this repository contains a distinct project I've worked on. 
+Welcome to my Portfolio! This repository showcases a selection of my data science/analytics projects, demonstrating my skills and competencies in the field. Each directory within this repository contains a distinct project I've worked on. 
 
 For example, the **NLP-Contextual-Analysis** directory houses an NLP project focused on contextual analysis.
 

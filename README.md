@@ -13,7 +13,7 @@ This portfolio serves to highlight my expertise and provide potential collaborat
 ## Dependencies
 
 ### Global Requirements
-- Python 3.12.3
+- Python 3.12.5
 
 ### Project-Specific Dependencies
 Each project in this repository may have its own set of dependencies. For detailed information:

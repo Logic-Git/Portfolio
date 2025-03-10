@@ -21,6 +21,7 @@ GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 if GOOGLE_API_KEY:
     genai.configure(api_key=GOOGLE_API_KEY)
 
+
 @rate_limit(calls_per_minute=10)
 def extract_company_info_for_campaign(template_email, template_email_sequence):
     """
@@ -38,7 +39,7 @@ def extract_company_info_for_campaign(template_email, template_email_sequence):
     model = genai.GenerativeModel("gemini-1.0-pro")
     email_chain = f"Initial Email:\n{template_email}\n\n"
     for i, email in enumerate(template_email_sequence):
-        email_chain += f"Follow-up Email {i+1}:\n{email}\n\n"
+        email_chain += f"Follow-up Email {i + 1}:\n{email}\n\n"
 
     prompt = f"""
     You are a market research assistant. I will provide you with email
@@ -75,6 +76,7 @@ def extract_company_info_for_campaign(template_email, template_email_sequence):
         print(f"Error during Gemini API request: {e}")
         return None
 
+
 @rate_limit(calls_per_minute=10)
 def research_company_with_gemini(company_name, your_company_info):
     """
@@ -90,9 +92,7 @@ def research_company_with_gemini(company_name, your_company_info):
     client = genai_full.Client(api_key=GOOGLE_API_KEY)
     model_id = "gemini-2.0-flash-exp"
 
-    google_search_tool = Tool(
-        google_search=GoogleSearch()
-    )
+    google_search_tool = Tool(google_search=GoogleSearch())
 
     prompt = f"""
     You are a market research assistant.
@@ -124,13 +124,14 @@ def research_company_with_gemini(company_name, your_company_info):
             model=model_id,
             contents=prompt,
             config=GenerateContentConfig(
-                tools=[google_search_tool],
-                response_modalities=["TEXT"]
-            )
+                tools=[google_search_tool], response_modalities=["TEXT"]
+            ),
         )
 
         # Assuming you want the full text from all parts
-        full_text = ''.join([part.text for part in response.candidates[0].content.parts])
+        full_text = "".join(
+            [part.text for part in response.candidates[0].content.parts]
+        )
         return full_text
 
     except Exception as e:

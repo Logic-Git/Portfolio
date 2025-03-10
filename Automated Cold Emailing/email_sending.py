@@ -14,13 +14,17 @@ from openpyxl import load_workbook
 import logging
 
 # Gmail API scope
-SCOPES = ['https://www.googleapis.com/auth/gmail.send', 'https://www.googleapis.com/auth/gmail.modify']
+SCOPES = [
+    "https://www.googleapis.com/auth/gmail.send",
+    "https://www.googleapis.com/auth/gmail.modify",
+]
 
 # File to store email-token mapping
-EMAIL_TO_TOKEN_FILE = 'email_to_token.pickle'
+EMAIL_TO_TOKEN_FILE = "email_to_token.pickle"
 
 # Excel file for email-credentials mapping
-EMAIL_TO_CREDENTIALSJSON = 'Email-to-Credentials.xlsx'
+EMAIL_TO_CREDENTIALSJSON = "Email-to-Credentials.xlsx"
+
 
 def send_email(sender, to, subject, message_text, sender_name=None, thread_id=None):
     """
@@ -33,69 +37,90 @@ def send_email(sender, to, subject, message_text, sender_name=None, thread_id=No
         message_text: The text of the email message.
         sender_name (str, optional): The name of the sender. If None, only email will be used.
         thread_id (str, optional): The ID of the thread to reply to. If None, a new thread is created.
-        
+
     Returns:
         The thread ID of the sent email.
     """
 
     def create_message(sender, to, subject, message_text, sender_name=None):
         """Create a message for an email."""
-        message = MIMEText(message_text, 'html')
-        message['to'] = to
-        
+        message = MIMEText(message_text, "html")
+        message["to"] = to
+
         if sender_name:
-            message['from'] = f'{sender_name} <{sender}>'  # Include sender name
+            message["from"] = f"{sender_name} <{sender}>"  # Include sender name
         else:
-            message['from'] = sender
-        
-        message['subject'] = subject
-        return {'raw': base64.urlsafe_b64encode(message.as_string().encode()).decode()}
+            message["from"] = sender
+
+        message["subject"] = subject
+        return {"raw": base64.urlsafe_b64encode(message.as_string().encode()).decode()}
 
     def send_message(service, user_id, message, thread_id=None):
         """Send an email message."""
         try:
             if thread_id:
                 # Get the original message
-                original_message = service.users().messages().get(userId=user_id, id=thread_id, format="metadata").execute()  # Fetch only metadata
+                original_message = (
+                    service.users()
+                    .messages()
+                    .get(userId=user_id, id=thread_id, format="metadata")
+                    .execute()
+                )  # Fetch only metadata
 
                 # Extract the threadId and References header
-                thread_id = original_message['threadId']
-                references = original_message['payload']['headers']
+                thread_id = original_message["threadId"]
+                references = original_message["payload"]["headers"]
 
                 # Find the References header
                 references_header = None
                 for header in references:
-                    if header['name'] == 'References':
-                        references_header = header['value']
+                    if header["name"] == "References":
+                        references_header = header["value"]
                         break
 
                 # Set the In-Reply-To and References headers
-                message['In-Reply-To'] = original_message['id']
-                message['References'] = f"{references_header} {original_message['id']}" if references_header else original_message['id']
+                message["In-Reply-To"] = original_message["id"]
+                message["References"] = (
+                    f"{references_header} {original_message['id']}"
+                    if references_header
+                    else original_message["id"]
+                )
 
                 # Send the message as a reply
-                message = (service.users().messages().send(userId=user_id, body=message, threadId=thread_id)
-                           .execute())
-                print('Message Id: %s' % message['id'])
+                message = (
+                    service.users()
+                    .messages()
+                    .send(userId=user_id, body=message, threadId=thread_id)
+                    .execute()
+                )
+                print("Message Id: %s" % message["id"])
                 return message
             else:
-                message = (service.users().messages().send(userId=user_id, body=message)
-                           .execute())
-                print('Message Id: %s' % message['id'])
-                print('Thread Id: %s' % message['threadId'])  # Print the threadId
-                return message['threadId']  # Return the threadId for new messages
+                message = (
+                    service.users()
+                    .messages()
+                    .send(userId=user_id, body=message)
+                    .execute()
+                )
+                print("Message Id: %s" % message["id"])
+                print("Thread Id: %s" % message["threadId"])  # Print the threadId
+                return message["threadId"]  # Return the threadId for new messages
         except Exception as error:
-            print('An error occurred: %s' % error)
+            print("An error occurred: %s" % error)
 
     def get_credentials(sender):
         """Retrieves the credentials file name for the given sender from the Excel file."""
         try:
             workbook = load_workbook(EMAIL_TO_CREDENTIALSJSON)
-            sheet = workbook['Sheet1']  # Assuming the mapping is in Sheet1
+            sheet = workbook["Sheet1"]  # Assuming the mapping is in Sheet1
 
-            for row in sheet.iter_rows(min_row=2, values_only=True):  # Start from the second row
+            for row in sheet.iter_rows(
+                min_row=2, values_only=True
+            ):  # Start from the second row
                 if row[0] == sender:  # Assuming email is in the first column
-                    return row[1]  # Return the credentials file name from the second column
+                    return row[
+                        1
+                    ]  # Return the credentials file name from the second column
 
             print(f"Error: No credentials found for sender: {sender}")
             exit(1)
@@ -106,7 +131,7 @@ def send_email(sender, to, subject, message_text, sender_name=None, thread_id=No
 
     # Load or create the email-to-token mapping
     if os.path.exists(EMAIL_TO_TOKEN_FILE):
-        with open(EMAIL_TO_TOKEN_FILE, 'rb') as f:
+        with open(EMAIL_TO_TOKEN_FILE, "rb") as f:
             email_to_token = pickle.load(f)
     else:
         email_to_token = {}
@@ -116,7 +141,7 @@ def send_email(sender, to, subject, message_text, sender_name=None, thread_id=No
 
     creds = None
     if token_file and os.path.exists(token_file):
-        with open(token_file, 'rb') as token:
+        with open(token_file, "rb") as token:
             creds = pickle.load(token)
 
     if not creds or not creds.valid:
@@ -129,24 +154,37 @@ def send_email(sender, to, subject, message_text, sender_name=None, thread_id=No
 
         # Generate a new token file name if it doesn't exist
         if not token_file:
-            token_file = f'token_{len(email_to_token) + 1}.pickle'
+            token_file = f"token_{len(email_to_token) + 1}.pickle"
             email_to_token[sender] = token_file  # Update the mapping
 
         # Save the credentials to the token file
-        with open(token_file, 'wb') as token:
+        with open(token_file, "wb") as token:
             pickle.dump(creds, token)
 
     # Save the updated email-to-token mapping
-    with open(EMAIL_TO_TOKEN_FILE, 'wb') as f:
+    with open(EMAIL_TO_TOKEN_FILE, "wb") as f:
         pickle.dump(email_to_token, f)
 
-    service = build('gmail', 'v1', credentials=creds)
+    service = build("gmail", "v1", credentials=creds)
 
     # Send the email
     message = create_message(sender, to, subject, message_text, sender_name)
-    return send_message(service, "me", message, thread_id)  # Pass thread_id to send_message
+    return send_message(
+        service, "me", message, thread_id
+    )  # Pass thread_id to send_message
 
-def execute_cold_email_campaign(lead_directory_file, sheet_name, email_column_names, sending_emails, sender_name, email_limit, analytics_file=None, analytics_sheet=None, analytics_cell=None):
+
+def execute_cold_email_campaign(
+    lead_directory_file,
+    sheet_name,
+    email_column_names,
+    sending_emails,
+    sender_name,
+    email_limit,
+    analytics_file=None,
+    analytics_sheet=None,
+    analytics_cell=None,
+):
     """
     Executes a cold email campaign by sending emails to leads in a lead directory.
 
@@ -168,10 +206,14 @@ def execute_cold_email_campaign(lead_directory_file, sheet_name, email_column_na
 
         # Check if the Excel file has the required columns
         required_sent_columns = [f"{col_name} Sent" for col_name in email_column_names]
-        missing_sent_columns = [col for col in required_sent_columns if col not in headers]
+        missing_sent_columns = [
+            col for col in required_sent_columns if col not in headers
+        ]
 
         if missing_sent_columns:
-            logging.error(f"Error: Missing 'sent' columns in Excel file: {missing_sent_columns}")
+            logging.error(
+                f"Error: Missing 'sent' columns in Excel file: {missing_sent_columns}"
+            )
             return False
 
         email_count = 0
@@ -180,13 +222,17 @@ def execute_cold_email_campaign(lead_directory_file, sheet_name, email_column_na
 
         for col_index, column_name in enumerate(email_column_names):
             if column_name not in headers:
-                logging.error(f"Error: Column '{column_name}' not found in the Excel file.")
+                logging.error(
+                    f"Error: Column '{column_name}' not found in the Excel file."
+                )
                 continue
 
             sent_column_name = f"{column_name} Sent"
             sent_col_index = headers.index(sent_column_name) + 1
 
-            for row_index in range(2, sheet.max_row + 1):  # Start from the second row (index 1)
+            for row_index in range(
+                2, sheet.max_row + 1
+            ):  # Start from the second row (index 1)
                 if email_count >= email_limit * len(sending_emails):
                     print("Email limit reached for all email addresses.")
                     break
@@ -195,13 +241,17 @@ def execute_cold_email_campaign(lead_directory_file, sheet_name, email_column_na
                 if sent_cell.value == 1:
                     continue  # Skip if email already sent
 
-                email_cell = sheet.cell(row=row_index, column=headers.index(column_name) + 1)
+                email_cell = sheet.cell(
+                    row=row_index, column=headers.index(column_name) + 1
+                )
                 if email_cell.value is None:
                     print("All emails sent from the specified column.")
                     break  # Exit the inner loop if no more emails in the column
 
                 # Extract lead's first name
-                lead_first_name = sheet.cell(row=row_index, column=headers.index("First Name") + 1).value
+                lead_first_name = sheet.cell(
+                    row=row_index, column=headers.index("First Name") + 1
+                ).value
 
                 # Generate email subject
                 subject = f"{sender_name.split()[0]} and {lead_first_name}"
@@ -209,10 +259,12 @@ def execute_cold_email_campaign(lead_directory_file, sheet_name, email_column_na
                 # Send the email
                 send_email(
                     sender=current_email,
-                    to=sheet.cell(row=row_index, column=headers.index("Email") + 1).value,
+                    to=sheet.cell(
+                        row=row_index, column=headers.index("Email") + 1
+                    ).value,
                     subject=subject,
                     message_text=email_cell.value,
-                    sender_name=sender_name
+                    sender_name=sender_name,
                 )
 
                 # Mark the email as sent
@@ -234,7 +286,9 @@ def execute_cold_email_campaign(lead_directory_file, sheet_name, email_column_na
                 analytics_workbook = load_workbook(analytics_file)
                 analytics_sheet_obj = analytics_workbook[analytics_sheet]
                 analytics_cell_obj = analytics_sheet_obj[analytics_cell]
-                analytics_cell_obj.value = int(analytics_cell_obj.value or 0) + email_count
+                analytics_cell_obj.value = (
+                    int(analytics_cell_obj.value or 0) + email_count
+                )
                 analytics_workbook.save(analytics_file)
             except Exception as e:
                 logging.error(f"Error updating analytics: {e}")

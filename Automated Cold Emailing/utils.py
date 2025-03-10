@@ -11,8 +11,12 @@ from openpyxl import load_workbook, Workbook
 
 # Configure logging
 LOG_FILE = "email_generation.log"
-logging.basicConfig(filename=LOG_FILE, level=logging.INFO,
-                    format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(
+    filename=LOG_FILE,
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+)
+
 
 # --- Rate Limiting Decorator ---
 def rate_limit(calls_per_minute):
@@ -25,6 +29,7 @@ def rate_limit(calls_per_minute):
     Returns:
         A rate-limiting decorator function.
     """
+
     def decorator(func):
         """
         Decorator to rate-limit a function.
@@ -43,11 +48,16 @@ def rate_limit(calls_per_minute):
 
             if len(call_times) > calls_per_minute:
                 sleep_time = 60 - (now - call_times[0])
-                logging.info(f"Rate limit hit for {func.__name__}. Sleeping for {sleep_time:.2f} seconds.")
+                logging.info(
+                    f"Rate limit hit for {func.__name__}. Sleeping for {sleep_time:.2f} seconds."
+                )
                 time.sleep(sleep_time)
             return func(*args, **kwargs)
+
         return wrapper
+
     return decorator
+
 
 def add_lead_to_excel(excel_filename, lead_email, lead_data):
     """
@@ -67,17 +77,25 @@ def add_lead_to_excel(excel_filename, lead_email, lead_data):
 
         # Check if the lead exists based on email
         lead_row = None
-        for i, row in enumerate(sheet.iter_rows(min_row=2, values_only=True)):  # Start from the second row (assuming header)
+        for i, row in enumerate(
+            sheet.iter_rows(min_row=2, values_only=True)
+        ):  # Start from the second row (assuming header)
             if row and row[0] == lead_email:  # Assuming email is in the first column
-                lead_row = i + 2  # Get the actual row number (adjust if email is in a different column)
+                lead_row = (
+                    i + 2
+                )  # Get the actual row number (adjust if email is in a different column)
                 break
 
         if lead_row is None:
-            logging.error(f"Error: Lead with email '{lead_email}' not found in '{excel_filename}'.")
+            logging.error(
+                f"Error: Lead with email '{lead_email}' not found in '{excel_filename}'."
+            )
             return False
 
         # Check if the lead_data fields match the column headers
-        headers = [cell.value for cell in sheet[1]]  # Get the column headers from the first row
+        headers = [
+            cell.value for cell in sheet[1]
+        ]  # Get the column headers from the first row
         for key in lead_data.keys():
             if key not in headers:
                 logging.error(f"Error: Column '{key}' not found in the Excel file.")
@@ -101,6 +119,7 @@ def add_lead_to_excel(excel_filename, lead_email, lead_data):
         logging.error(f"An unexpected error occurred: {e}")
         return False
 
+
 def preprocess_csv(raw_csv_file, columns_to_preprocess):
     """
     Preprocesses a CSV file by removing everything after a comma in specified columns.
@@ -116,7 +135,9 @@ def preprocess_csv(raw_csv_file, columns_to_preprocess):
         # Preprocess the specified columns
         for column in columns_to_preprocess:
             if column in df.columns:
-                df[column] = df[column].apply(lambda x: x.split(',')[0] if isinstance(x, str) and ',' in x else x)
+                df[column] = df[column].apply(
+                    lambda x: x.split(",")[0] if isinstance(x, str) and "," in x else x
+                )
             else:
                 print(f"Warning: Column '{column}' not found in the CSV file.")
 
@@ -129,6 +150,7 @@ def preprocess_csv(raw_csv_file, columns_to_preprocess):
     except Exception as e:
         print(f"An error occurred during preprocessing: {e}")
 
+
 def extract_lead_info_from_csv(raw_csv_file, lead_directory_file, column_mapping):
     """
     Extracts lead information from a raw CSV file and populates a lead directory Excel file.
@@ -136,7 +158,7 @@ def extract_lead_info_from_csv(raw_csv_file, lead_directory_file, column_mapping
     Args:
         raw_csv_file (str): Path to the raw CSV file.
         lead_directory_file (str): Path to the lead directory Excel file.
-        column_mapping (dict): A dictionary mapping lead directory column names to 
+        column_mapping (dict): A dictionary mapping lead directory column names to
                                raw data columns. If a key is mapped to a list of columns,
                                the function will check each column in the list sequentially
                                and use the first non-empty value found.
@@ -149,7 +171,9 @@ def extract_lead_info_from_csv(raw_csv_file, lead_directory_file, column_mapping
     """
     try:
         # Load the raw CSV file
-        with open(raw_csv_file, 'r', newline='', encoding='utf-8') as csvfile:  # Adjust encoding if necessary
+        with open(
+            raw_csv_file, "r", newline="", encoding="utf-8"
+        ) as csvfile:  # Adjust encoding if necessary
             reader = csv.DictReader(csvfile)
             raw_headers = reader.fieldnames
 
@@ -157,12 +181,16 @@ def extract_lead_info_from_csv(raw_csv_file, lead_directory_file, column_mapping
             try:
                 lead_workbook = load_workbook(lead_directory_file)
             except FileNotFoundError:
-                lead_workbook = Workbook()  # Create a new workbook if the file doesn't exist
+                lead_workbook = (
+                    Workbook()
+                )  # Create a new workbook if the file doesn't exist
 
             lead_sheet = lead_workbook.active
 
             # Ensure the lead directory has the correct headers
-            lead_headers = [cell.value for cell in lead_sheet[1]] if lead_sheet.max_row > 0 else []
+            lead_headers = (
+                [cell.value for cell in lead_sheet[1]] if lead_sheet.max_row > 0 else []
+            )
             for lead_key in column_mapping.keys():
                 if lead_key not in lead_headers:
                     lead_sheet.cell(row=1, column=len(lead_headers) + 1, value=lead_key)
@@ -174,22 +202,32 @@ def extract_lead_info_from_csv(raw_csv_file, lead_directory_file, column_mapping
                 for lead_key, raw_columns in column_mapping.items():
                     if isinstance(raw_columns, str):
                         if raw_columns not in raw_headers:
-                            logging.error(f"Error: Column '{raw_columns}' not found in the raw data file.")
+                            logging.error(
+                                f"Error: Column '{raw_columns}' not found in the raw data file."
+                            )
                             return False
-                        lead_info[lead_key] = row[raw_columns].strip()  # Strip leading/trailing spaces
+                        lead_info[lead_key] = row[
+                            raw_columns
+                        ].strip()  # Strip leading/trailing spaces
                     elif isinstance(raw_columns, list):
                         lead_info[lead_key] = None  # Initialize as None
                         for raw_column in raw_columns:
                             if raw_column not in raw_headers:
-                                logging.error(f"Error: Column '{raw_column}' not found in the raw data file.")
+                                logging.error(
+                                    f"Error: Column '{raw_column}' not found in the raw data file."
+                                )
                                 return False
-                            email_value = row[raw_column].strip()  # Strip leading/trailing spaces
-                            if email_value and email_value != '-':
+                            email_value = row[
+                                raw_column
+                            ].strip()  # Strip leading/trailing spaces
+                            if email_value and email_value != "-":
                                 lead_info[lead_key] = email_value
                                 break  # Stop checking after finding a valid value
 
                 # Add the lead to the lead directory
-                lead_sheet.append([lead_info.get(header, None) for header in lead_headers])
+                lead_sheet.append(
+                    [lead_info.get(header, None) for header in lead_headers]
+                )
 
             lead_workbook.save(lead_directory_file)
             return True
@@ -203,6 +241,7 @@ def extract_lead_info_from_csv(raw_csv_file, lead_directory_file, column_mapping
     except Exception as e:
         logging.error(f"An unexpected error occurred while processing the files: {e}")
         return False
+
 
 def eliminate_incomplete_leads(excel_file, sheet_name, columns_to_check):
     """
@@ -228,9 +267,14 @@ def eliminate_incomplete_leads(excel_file, sheet_name, columns_to_check):
         # Identify and eliminate rows with missing key values
         eliminated_leads = []
         rows_to_delete = []
-        for row_index, row in enumerate(sheet.iter_rows(min_row=2, values_only=True), start=2):
+        for row_index, row in enumerate(
+            sheet.iter_rows(min_row=2, values_only=True), start=2
+        ):
             lead_info = dict(zip(headers, row))
-            if any(lead_info[key_col] is None or str(lead_info[key_col]).strip() == "" for key_col in columns_to_check):
+            if any(
+                lead_info[key_col] is None or str(lead_info[key_col]).strip() == ""
+                for key_col in columns_to_check
+            ):
                 eliminated_leads.append(lead_info)
                 rows_to_delete.append(row_index)
 
@@ -244,7 +288,11 @@ def eliminate_incomplete_leads(excel_file, sheet_name, columns_to_check):
             print("| " + " | ".join(headers) + " |")
             print("| " + " | ".join("-" * len(header) for header in headers) + " |")
             for lead in eliminated_leads:
-                print("| " + " | ".join(str(lead.get(header, "")) for header in headers) + " |")
+                print(
+                    "| "
+                    + " | ".join(str(lead.get(header, "")) for header in headers)
+                    + " |"
+                )
 
         workbook.save(excel_file)
 
@@ -254,6 +302,7 @@ def eliminate_incomplete_leads(excel_file, sheet_name, columns_to_check):
         print(f"Error: {e}")
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
+
 
 def clean_emails(excel_file, sheet_name, columns_to_clean, row_start, row_end):
     """
@@ -284,7 +333,9 @@ def clean_emails(excel_file, sheet_name, columns_to_clean, row_start, row_end):
                     # Remove everything before <html> and after </html>
                     email = email.split("<html>")[1].split("</html>")[0]
 
-                    cell.value = "<html>" + email + "</html>"  # Add back the <html> and </html> tags
+                    cell.value = (
+                        "<html>" + email + "</html>"
+                    )  # Add back the <html> and </html> tags
 
         workbook.save(excel_file)  # Save the changes to the same Excel file
         print("Emails cleaned successfully.")
@@ -295,6 +346,7 @@ def clean_emails(excel_file, sheet_name, columns_to_clean, row_start, row_end):
         print(f"Error: Sheet '{sheet_name}' not found in the Excel file.")
     except Exception as e:
         print(f"An error occurred: {e}")
+
 
 def add_opt_out_message(excel_file, sheet_name, columns_to_update, row_start, row_end):
     """
@@ -326,7 +378,12 @@ def add_opt_out_message(excel_file, sheet_name, columns_to_update, row_start, ro
             col_index = headers.index(column_name) + 1
             for row_index in range(row_start, row_end + 1):
                 cell = sheet.cell(row=row_index, column=col_index)
-                if cell.value is not None and isinstance(cell.value, str) and "<html>" in cell.value and "</html>" in cell.value:
+                if (
+                    cell.value is not None
+                    and isinstance(cell.value, str)
+                    and "<html>" in cell.value
+                    and "</html>" in cell.value
+                ):
                     email = cell.value
                     email = email.replace("</body>", f"{opt_out_message}</body>")
                     cell.value = email
@@ -341,6 +398,7 @@ def add_opt_out_message(excel_file, sheet_name, columns_to_update, row_start, ro
     except Exception as e:
         print(f"An error occurred: {e}")
 
+
 def email_verifier(csv_file, excel_file, mapping, output_file):
     """
     Verifies emails in an Excel file against a cleaned CSV file and creates a new Excel file with only verified emails.
@@ -348,13 +406,15 @@ def email_verifier(csv_file, excel_file, mapping, output_file):
     Args:
         csv_file (str): Path to the CSV file with cleaned emails.
         excel_file (str): Path to the Excel file with original data.
-        mapping (dict): A dictionary mapping Excel email column to CSV email column. 
+        mapping (dict): A dictionary mapping Excel email column to CSV email column.
         Use excel_email_column and csv_email_column keys.
         output_file (str): Path to save the output Excel file.
     """
     try:
         # 1. Check Column Existence and Load Data
-        logging.info(f"Starting verification process. CSV: {csv_file}, Excel: {excel_file}")
+        logging.info(
+            f"Starting verification process. CSV: {csv_file}, Excel: {excel_file}"
+        )
 
         try:
             df_csv = pd.read_csv(csv_file)
@@ -384,7 +444,8 @@ def email_verifier(csv_file, excel_file, mapping, output_file):
         for email in df_csv[csv_email_col]:
             # Find matching rows in Excel (case-insensitive and stripped of whitespace)
             matching_rows = df_excel.index[
-                df_excel[excel_email_col].str.lower().str.strip() == email.lower().strip()
+                df_excel[excel_email_col].str.lower().str.strip()
+                == email.lower().strip()
             ].tolist()
             rows_to_keep.update(matching_rows)
 
@@ -397,6 +458,7 @@ def email_verifier(csv_file, excel_file, mapping, output_file):
 
     except Exception as e:
         logging.exception(f"An error occurred during the verification process: {e}")
+
 
 def transfer_data_between_files(excel_file, csv_file, mapping_dict):
     """
@@ -430,16 +492,26 @@ def transfer_data_between_files(excel_file, csv_file, mapping_dict):
         return
 
     # --- 2. Validate the mapping dictionary ---
-    if not isinstance(mapping_dict, dict) or 'keys' not in mapping_dict or 'data' not in mapping_dict:
-        print("Error: Invalid mapping_dict. It should be a dictionary with 'keys' and 'data'.")
+    if (
+        not isinstance(mapping_dict, dict)
+        or "keys" not in mapping_dict
+        or "data" not in mapping_dict
+    ):
+        print(
+            "Error: Invalid mapping_dict. It should be a dictionary with 'keys' and 'data'."
+        )
         return
 
-    excel_key_col = list(mapping_dict['keys'].keys())[0]
-    csv_key_col = mapping_dict['keys'][excel_key_col]
-    csv_data_col = list(mapping_dict['data'].keys())[0]
-    new_excel_col = mapping_dict['data'][csv_data_col]
+    excel_key_col = list(mapping_dict["keys"].keys())[0]
+    csv_key_col = mapping_dict["keys"][excel_key_col]
+    csv_data_col = list(mapping_dict["data"].keys())[0]
+    new_excel_col = mapping_dict["data"][csv_data_col]
 
-    if not (excel_key_col in df_excel.columns and csv_key_col in df_csv.columns and csv_data_col in df_csv.columns):
+    if not (
+        excel_key_col in df_excel.columns
+        and csv_key_col in df_csv.columns
+        and csv_data_col in df_csv.columns
+    ):
         print(f"Error: One or more specified columns not found in the files.")
         print(f"  Excel key column: {excel_key_col}")
         print(f"  CSV key column: {csv_key_col}")
@@ -447,8 +519,10 @@ def transfer_data_between_files(excel_file, csv_file, mapping_dict):
         return
 
     # --- 3. Create a data map from CSV (case-insensitive for keys) ---
-    data_map = {str(row[csv_key_col]).lower(): row[csv_data_col]
-                for index, row in df_csv.iterrows()}
+    data_map = {
+        str(row[csv_key_col]).lower(): row[csv_data_col]
+        for index, row in df_csv.iterrows()
+    }
 
     # --- 4. Add the new column to the Excel dataframe if it doesn't exist ---
     if new_excel_col not in df_excel.columns:

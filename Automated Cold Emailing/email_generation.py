@@ -9,6 +9,7 @@ import google.generativeai as genai
 from utils import rate_limit
 from research import research_company_with_gemini, extract_company_info_for_campaign
 
+
 @rate_limit(calls_per_minute=10)
 def generate_email_content(prompt):
     """
@@ -28,8 +29,16 @@ def generate_email_content(prompt):
         logging.error(f"Error during Gemini API request: {e}")
         return None
 
+
 @rate_limit(calls_per_minute=10)
-def generate_emails_for_leads(lead_directory_file, template_email, template_email_sequence, row_start, row_end, sender_name):
+def generate_emails_for_leads(
+    lead_directory_file,
+    template_email,
+    template_email_sequence,
+    row_start,
+    row_end,
+    sender_name,
+):
     """
     Generates tailored cold emails for a range of leads in the lead directory using the Gemini API.
 
@@ -50,30 +59,51 @@ def generate_emails_for_leads(lead_directory_file, template_email, template_emai
         headers = [cell.value for cell in sheet[1]]
 
         # Check if the Excel file has the required columns
-        required_email_columns = [f"Email {i+1}" for i in range(len(template_email_sequence) + 1)]
-        required_sent_columns = [f"Email {i+1} Sent" for i in range(len(template_email_sequence) + 1)]
-        
-        missing_email_columns = [col for col in required_email_columns if col not in headers]
-        missing_sent_columns = [col for col in required_sent_columns if col not in headers]
+        required_email_columns = [
+            f"Email {i + 1}" for i in range(len(template_email_sequence) + 1)
+        ]
+        required_sent_columns = [
+            f"Email {i + 1} Sent" for i in range(len(template_email_sequence) + 1)
+        ]
+
+        missing_email_columns = [
+            col for col in required_email_columns if col not in headers
+        ]
+        missing_sent_columns = [
+            col for col in required_sent_columns if col not in headers
+        ]
 
         if missing_email_columns:
-            logging.error(f"Error: Missing email columns in Excel file: {missing_email_columns}")
+            logging.error(
+                f"Error: Missing email columns in Excel file: {missing_email_columns}"
+            )
             return False
         if missing_sent_columns:
-            logging.error(f"Error: Missing 'sent' columns in Excel file: {missing_sent_columns}")
+            logging.error(
+                f"Error: Missing 'sent' columns in Excel file: {missing_sent_columns}"
+            )
             return False
 
         for row_index in range(row_start, row_end + 1):
-            lead_info = {headers[i]: sheet.cell(row=row_index, column=i + 1).value for i in range(len(headers))}
-            company_name = lead_info.get("Company Name")  # Assuming "Company Name" is the header
+            lead_info = {
+                headers[i]: sheet.cell(row=row_index, column=i + 1).value
+                for i in range(len(headers))
+            }
+            company_name = lead_info.get(
+                "Company Name"
+            )  # Assuming "Company Name" is the header
             lead_email = lead_info.get("Email")  # Assuming "Email" is the header
 
             if not company_name or not lead_email:
-                logging.warning(f"Skipping row {row_index}: Company name or email missing.")
+                logging.warning(
+                    f"Skipping row {row_index}: Company name or email missing."
+                )
                 continue
 
             # Extract company info from the template email
-            company_info = extract_company_info_for_campaign(template_email, template_email_sequence)
+            company_info = extract_company_info_for_campaign(
+                template_email, template_email_sequence
+            )
 
             # Research the company using Gemini
             research_summary = research_company_with_gemini(company_name, company_info)
@@ -141,14 +171,20 @@ def generate_emails_for_leads(lead_directory_file, template_email, template_emai
                 - Add as many metrics as possible if you have knowledge of them from things I have given you
                 - Address the recipient by their first name (which will be given below), whenever needed.
                 - Use "{sender_name}" as the sender's name at the end of the email and wherever else in the email you see its usage fit
-                Please generate a tailored cold email for {company_name}, addressed to {lead_info.get('First Name', '')}.
+                Please generate a tailored cold email for {company_name}, addressed to {lead_info.get("First Name", "")}.
                 """
             initial_email = generate_email_content(initial_email_prompt)
 
             if initial_email:
                 # Save the initial email and mark it as not sent
-                sheet.cell(row=row_index, column=headers.index("Email 1") + 1, value=initial_email)
-                sheet.cell(row=row_index, column=headers.index("Email 1 Sent") + 1, value=0)
+                sheet.cell(
+                    row=row_index,
+                    column=headers.index("Email 1") + 1,
+                    value=initial_email,
+                )
+                sheet.cell(
+                    row=row_index, column=headers.index("Email 1 Sent") + 1, value=0
+                )
 
                 # Generate follow-up emails
                 current_email_chain = [initial_email]
@@ -163,8 +199,8 @@ def generate_emails_for_leads(lead_directory_file, template_email, template_emai
                         So even if you can't convince the recipient to buy what we are selling, but are able to convince them to take a meeting with us, you get maximum possible credit.
                         I want you to work very hard on every cold email, ensuring a perfect piece is crefted at the end of every response you give.
                         Here is a sequence of email templates our company has used in the past:\\n```\\nInitial Email:\\n{template_email}\\n\n
-                        {' ' if i == 0 else f'Follow-up {i}:'}\\n{' ' if i == 0 else follow_up_template}\\n```\\n\n
-                        Here is the email chain we have sent to {company_name} so far:\\n```\\n{chr(10).join(f'Email {j+1}:{email}' for j, email in enumerate(current_email_chain))}\\n```\\n\n
+                        {" " if i == 0 else f"Follow-up {i}:"}\\n{" " if i == 0 else follow_up_template}\\n```\\n\n
+                        Here is the email chain we have sent to {company_name} so far:\\n```\\n{chr(10).join(f"Email {j + 1}:{email}" for j, email in enumerate(current_email_chain))}\\n```\\n\n
                         And here is some information about the company we are targeting:\\n```\\nCompany Name: {company_name}\\nResearch Summary:\\n{research_summary}\\n```\\n\n
                         You can use the templates to understand what we are offering, what is the value of what we are offering to the customeer and how we market it.
                         Also use the template to learn the type of language we use in our cold emails. Use the same language.
@@ -219,20 +255,40 @@ def generate_emails_for_leads(lead_directory_file, template_email, template_emai
                         At the same time, we want to remind them of what we are offering because there is a chance that they find what we are offering useful but got busy so couldn't reply to us.
                         - Address the recipient by their first name (which will be given below), whenever needed.
                         - Use "{sender_name}" as the sender's name at the end of the email and wherever else in the email you see its usage fit.
-                        Please generate follow-up email number {i + 2} for {company_name}, addressed to {lead_info.get('First Name', '')}.
+                        Please generate follow-up email number {i + 2} for {company_name}, addressed to {lead_info.get("First Name", "")}.
                         """
                     follow_up_email = generate_email_content(follow_up_prompt)
                     if follow_up_email:
                         # Save the follow-up email and mark it as not sent
-                        sheet.cell(row=row_index, column=headers.index(f"Email {i+2}") + 1, value=follow_up_email)
-                        sheet.cell(row=row_index, column=headers.index(f"Email {i+2} Sent") + 1, value=0)
+                        sheet.cell(
+                            row=row_index,
+                            column=headers.index(f"Email {i + 2}") + 1,
+                            value=follow_up_email,
+                        )
+                        sheet.cell(
+                            row=row_index,
+                            column=headers.index(f"Email {i + 2} Sent") + 1,
+                            value=0,
+                        )
                         current_email_chain.append(follow_up_email)
                     else:
                         # If any email in the sequence fails to generate, don't save any data for this lead
-                        logging.warning(f"Failed to generate follow-up email {i+2} for {company_name} (row {row_index}). Skipping this lead.")
-                        for j in range(1, i + 2):  # Clear any previously saved emails for this lead
-                            sheet.cell(row=row_index, column=headers.index(f"Email {j}") + 1, value=None)
-                            sheet.cell(row=row_index, column=headers.index(f"Email {j} Sent") + 1, value=None)
+                        logging.warning(
+                            f"Failed to generate follow-up email {i + 2} for {company_name} (row {row_index}). Skipping this lead."
+                        )
+                        for j in range(
+                            1, i + 2
+                        ):  # Clear any previously saved emails for this lead
+                            sheet.cell(
+                                row=row_index,
+                                column=headers.index(f"Email {j}") + 1,
+                                value=None,
+                            )
+                            sheet.cell(
+                                row=row_index,
+                                column=headers.index(f"Email {j} Sent") + 1,
+                                value=None,
+                            )
                         break  # Move on to the next lead
 
             # Save the workbook after processing each lead

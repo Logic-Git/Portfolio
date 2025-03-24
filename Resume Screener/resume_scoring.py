@@ -137,23 +137,28 @@ SCORING RUBRIC (out of 100 points):
 RESUME:
 {resume_text}
 
-Carefully analyze the resume against each criterion in the rubric. Provide a detailed evaluation with specific scores for each criterion and a final total score.
-
-Format your response as a JSON object with:
-1. A "breakdown" object containing scores for each criterion
-2. A "total_score" field with the sum of all scores
-
+Instructions:
+1. Carefully analyze the resume against each criterion in the rubric.
+2. Provide a detailed evaluation with specific scores for each criterion and a final total score.
+3. Do not simply award full points for a criterion just because it is mentioned in the resume. Instead, critically evaluate the resume to determine an appropriate score for each criterion.
+   - For example, suppose the criterion is "Python":
+     ```Then if a person mentions python in their skills section but has no relevant experience or projects mentioned in the resume that use python (neither do any of the experiences or project explicitly mention python nor can you logically infer from the projects that they might have involved programming in python),
+then the person gets 0 score for this criterion because simply mentioning it in the skills section is worth nothing.
+On the other hand, if the person has vast software engineering projects that they describe in their CV and explicitly mention that they used python for the project or you can logically infer from what the projects are about that python might have been used and they have mentioned python in their skills section at the same time, then it is safe to assume that they have worked a lot in python and you can give them a high score in this criterion.
+On the other hand, if there is another person who just has one small project in python then they do not get a 0 but they get a low score in this criterion.```
+4. Format your response as a JSON object with the following structure:
+   - A "breakdown" object containing scores for each criterion.
+   - A "total_score" field with the sum of all individual scores.
+   
 Example response format:
-{{
-  "breakdown": {{
-    "Education": 15,
+{"breakdown": {"Education": 15,
     "Relevant Experience": 25,
     ...
-  }},
+  },
   "total_score": 85
-}}
+}
 
-Ensure your total score is the sum of all individual scores and does not exceed 100.
+5. Ensure that the total score is exactly the sum of all individual scores and does not exceed 100.
 """
 
     # Get Gemini score

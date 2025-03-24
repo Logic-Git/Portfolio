@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables
+.env
+
+# Virtual Environment
+venv/
+ENV/
+
+# Logs
+logs/
+*.log
+
+# Job Description and Resumes folders
+Job Description/
+Job Description/**
+Resumes/
+Resumes/**
+
+# Excel files that might contain results
+*.xlsx
+*.xls
+resume_screening_results.xlsx
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/

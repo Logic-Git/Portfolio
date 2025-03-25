@@ -126,10 +126,7 @@ def score_resume(
 
     # Format prompt for scoring
     prompt = f"""
-You are an expert resume evaluator. Your task is to score a resume against a job description according to a specific rubric.
-
-JOB DESCRIPTION:
-{job_description}
+You are an expert resume evaluator. Your task is to score a resume against a rubric given below.
 
 SCORING RUBRIC (out of 100 points):
 {rubric_text}
@@ -151,12 +148,12 @@ On the other hand, if there is another person who just has one small project in 
    - A "total_score" field with the sum of all individual scores.
    
 Example response format:
-{"breakdown": {"Education": 15,
+{{"breakdown": {{"Education": 15,
     "Relevant Experience": 25,
     ...
-  },
+  }},
   "total_score": 85
-}
+}}
 
 5. Ensure that the total score is exactly the sum of all individual scores and does not exceed 100.
 """
